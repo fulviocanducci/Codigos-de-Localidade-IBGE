@@ -1,0 +1,572 @@
+[{
+	"city_code": 152,
+	"city_name": "Abaetetuba"
+},
+{
+	"city_code": 153,
+	"city_name": "Abel Figueiredo"
+},
+{
+	"city_code": 154,
+	"city_name": "Acara"
+},
+{
+	"city_code": 155,
+	"city_name": "Afua"
+},
+{
+	"city_code": 156,
+	"city_name": "Agua Azul do Norte"
+},
+{
+	"city_code": 157,
+	"city_name": "Alenquer"
+},
+{
+	"city_code": 158,
+	"city_name": "Almeirim"
+},
+{
+	"city_code": 159,
+	"city_name": "Altamira"
+},
+{
+	"city_code": 160,
+	"city_name": "Anajas"
+},
+{
+	"city_code": 161,
+	"city_name": "Ananindeua"
+},
+{
+	"city_code": 162,
+	"city_name": "Anapu"
+},
+{
+	"city_code": 163,
+	"city_name": "Augusto Correa"
+},
+{
+	"city_code": 164,
+	"city_name": "Aurora do Para"
+},
+{
+	"city_code": 165,
+	"city_name": "Aveiro"
+},
+{
+	"city_code": 166,
+	"city_name": "Bagre"
+},
+{
+	"city_code": 167,
+	"city_name": "Baiao"
+},
+{
+	"city_code": 168,
+	"city_name": "Bannach"
+},
+{
+	"city_code": 169,
+	"city_name": "Barcarena"
+},
+{
+	"city_code": 170,
+	"city_name": "Belem"
+},
+{
+	"city_code": 171,
+	"city_name": "Belterra"
+},
+{
+	"city_code": 172,
+	"city_name": "Benevides"
+},
+{
+	"city_code": 173,
+	"city_name": "Bom Jesus do Tocantins"
+},
+{
+	"city_code": 174,
+	"city_name": "Bonito"
+},
+{
+	"city_code": 175,
+	"city_name": "Braganca"
+},
+{
+	"city_code": 176,
+	"city_name": "Brasil Novo"
+},
+{
+	"city_code": 177,
+	"city_name": "Brejo Grande do Araguaia"
+},
+{
+	"city_code": 178,
+	"city_name": "Breu Branco"
+},
+{
+	"city_code": 179,
+	"city_name": "Breves"
+},
+{
+	"city_code": 180,
+	"city_name": "Bujaru"
+},
+{
+	"city_code": 181,
+	"city_name": "Cachoeira do Arari"
+},
+{
+	"city_code": 182,
+	"city_name": "Cachoeira do Piria"
+},
+{
+	"city_code": 183,
+	"city_name": "Cameta"
+},
+{
+	"city_code": 184,
+	"city_name": "Canaa dos Carajas"
+},
+{
+	"city_code": 185,
+	"city_name": "Capanema"
+},
+{
+	"city_code": 186,
+	"city_name": "Capitao Poco"
+},
+{
+	"city_code": 187,
+	"city_name": "Castanhal"
+},
+{
+	"city_code": 188,
+	"city_name": "Chaves"
+},
+{
+	"city_code": 189,
+	"city_name": "Colares"
+},
+{
+	"city_code": 190,
+	"city_name": "Conceicao do Araguaia"
+},
+{
+	"city_code": 191,
+	"city_name": "Concordia do Para"
+},
+{
+	"city_code": 192,
+	"city_name": "Cumaru do Norte"
+},
+{
+	"city_code": 193,
+	"city_name": "Curionopolis"
+},
+{
+	"city_code": 194,
+	"city_name": "Curralinho"
+},
+{
+	"city_code": 195,
+	"city_name": "Curua"
+},
+{
+	"city_code": 196,
+	"city_name": "Curuca"
+},
+{
+	"city_code": 197,
+	"city_name": "Dom Eliseu"
+},
+{
+	"city_code": 198,
+	"city_name": "Eldorado dos Carajas"
+},
+{
+	"city_code": 199,
+	"city_name": "Faro"
+},
+{
+	"city_code": 200,
+	"city_name": "Floresta do Araguaia"
+},
+{
+	"city_code": 201,
+	"city_name": "Garrafao do Norte"
+},
+{
+	"city_code": 202,
+	"city_name": "Goianesia do Para"
+},
+{
+	"city_code": 203,
+	"city_name": "Gurupa"
+},
+{
+	"city_code": 204,
+	"city_name": "Igarape-Acu"
+},
+{
+	"city_code": 205,
+	"city_name": "Igarape-Miri"
+},
+{
+	"city_code": 206,
+	"city_name": "Inhangapi"
+},
+{
+	"city_code": 207,
+	"city_name": "Ipixuna do Para"
+},
+{
+	"city_code": 208,
+	"city_name": "Irituia"
+},
+{
+	"city_code": 209,
+	"city_name": "Itaituba"
+},
+{
+	"city_code": 210,
+	"city_name": "Itupiranga"
+},
+{
+	"city_code": 211,
+	"city_name": "Jacareacanga"
+},
+{
+	"city_code": 212,
+	"city_name": "Jacunda"
+},
+{
+	"city_code": 213,
+	"city_name": "Juruti"
+},
+{
+	"city_code": 214,
+	"city_name": "Limoeiro do Ajuru"
+},
+{
+	"city_code": 215,
+	"city_name": "Mae do Rio"
+},
+{
+	"city_code": 216,
+	"city_name": "Magalhaes Barata"
+},
+{
+	"city_code": 217,
+	"city_name": "Maraba"
+},
+{
+	"city_code": 218,
+	"city_name": "Maracana"
+},
+{
+	"city_code": 219,
+	"city_name": "Marapanim"
+},
+{
+	"city_code": 220,
+	"city_name": "Marituba"
+},
+{
+	"city_code": 221,
+	"city_name": "Medicilandia"
+},
+{
+	"city_code": 222,
+	"city_name": "Melgaco"
+},
+{
+	"city_code": 223,
+	"city_name": "Mocajuba"
+},
+{
+	"city_code": 224,
+	"city_name": "Moju"
+},
+{
+	"city_code": 225,
+	"city_name": "Monte Alegre"
+},
+{
+	"city_code": 226,
+	"city_name": "Muana"
+},
+{
+	"city_code": 227,
+	"city_name": "Nova Esperanca do Piria"
+},
+{
+	"city_code": 228,
+	"city_name": "Nova Ipixuna"
+},
+{
+	"city_code": 229,
+	"city_name": "Nova Timboteua"
+},
+{
+	"city_code": 230,
+	"city_name": "Novo Progresso"
+},
+{
+	"city_code": 231,
+	"city_name": "Novo Repartimento"
+},
+{
+	"city_code": 232,
+	"city_name": "Obidos"
+},
+{
+	"city_code": 233,
+	"city_name": "Oeiras do Para"
+},
+{
+	"city_code": 234,
+	"city_name": "Oriximina"
+},
+{
+	"city_code": 235,
+	"city_name": "Ourem"
+},
+{
+	"city_code": 236,
+	"city_name": "Ourilandia do Norte"
+},
+{
+	"city_code": 237,
+	"city_name": "Pacaja"
+},
+{
+	"city_code": 238,
+	"city_name": "Palestina do Para"
+},
+{
+	"city_code": 239,
+	"city_name": "Paragominas"
+},
+{
+	"city_code": 240,
+	"city_name": "Parauapebas"
+},
+{
+	"city_code": 241,
+	"city_name": "Pau DArco"
+},
+{
+	"city_code": 242,
+	"city_name": "Peixe-Boi"
+},
+{
+	"city_code": 243,
+	"city_name": "Picarra"
+},
+{
+	"city_code": 244,
+	"city_name": "Placas"
+},
+{
+	"city_code": 245,
+	"city_name": "Ponta de Pedras"
+},
+{
+	"city_code": 246,
+	"city_name": "Portel"
+},
+{
+	"city_code": 247,
+	"city_name": "Porto de Moz"
+},
+{
+	"city_code": 248,
+	"city_name": "Prainha"
+},
+{
+	"city_code": 249,
+	"city_name": "Primavera"
+},
+{
+	"city_code": 250,
+	"city_name": "Quatipuru"
+},
+{
+	"city_code": 251,
+	"city_name": "Redencao"
+},
+{
+	"city_code": 252,
+	"city_name": "Rio Maria"
+},
+{
+	"city_code": 253,
+	"city_name": "Rondon do Para"
+},
+{
+	"city_code": 254,
+	"city_name": "Ruropolis"
+},
+{
+	"city_code": 255,
+	"city_name": "Salinopolis"
+},
+{
+	"city_code": 256,
+	"city_name": "Salvaterra"
+},
+{
+	"city_code": 257,
+	"city_name": "Santa Barbara do Para"
+},
+{
+	"city_code": 258,
+	"city_name": "Santa Cruz do Arari"
+},
+{
+	"city_code": 259,
+	"city_name": "Santa Isabel do Para"
+},
+{
+	"city_code": 260,
+	"city_name": "Santa Luzia do Para"
+},
+{
+	"city_code": 261,
+	"city_name": "Santa Maria das Barreiras"
+},
+{
+	"city_code": 262,
+	"city_name": "Santa Maria do Para"
+},
+{
+	"city_code": 263,
+	"city_name": "Santana do Araguaia"
+},
+{
+	"city_code": 264,
+	"city_name": "Santarem"
+},
+{
+	"city_code": 265,
+	"city_name": "Santarem Novo"
+},
+{
+	"city_code": 266,
+	"city_name": "Santo Antonio do Taua"
+},
+{
+	"city_code": 267,
+	"city_name": "Sao Caetano de Odivelas"
+},
+{
+	"city_code": 268,
+	"city_name": "Sao Domingos do Araguaia"
+},
+{
+	"city_code": 269,
+	"city_name": "Sao Domingos do Capim"
+},
+{
+	"city_code": 270,
+	"city_name": "Sao Felix do Xingu"
+},
+{
+	"city_code": 271,
+	"city_name": "Sao Francisco do Para"
+},
+{
+	"city_code": 272,
+	"city_name": "Sao Geraldo do Araguaia"
+},
+{
+	"city_code": 273,
+	"city_name": "Sao Joao da Ponta"
+},
+{
+	"city_code": 274,
+	"city_name": "Sao Joao de Pirabas"
+},
+{
+	"city_code": 275,
+	"city_name": "Sao Joao do Araguaia"
+},
+{
+	"city_code": 276,
+	"city_name": "Sao Miguel do Guama"
+},
+{
+	"city_code": 277,
+	"city_name": "Sao Sebastiao da Boa Vista"
+},
+{
+	"city_code": 278,
+	"city_name": "Sapucaia"
+},
+{
+	"city_code": 279,
+	"city_name": "Senador Jose Porfirio"
+},
+{
+	"city_code": 280,
+	"city_name": "Soure"
+},
+{
+	"city_code": 281,
+	"city_name": "Tailandia"
+},
+{
+	"city_code": 282,
+	"city_name": "Terra Alta"
+},
+{
+	"city_code": 283,
+	"city_name": "Terra Santa"
+},
+{
+	"city_code": 284,
+	"city_name": "Tome-Acu"
+},
+{
+	"city_code": 285,
+	"city_name": "Tracuateua"
+},
+{
+	"city_code": 286,
+	"city_name": "Trairao"
+},
+{
+	"city_code": 287,
+	"city_name": "Tucuma"
+},
+{
+	"city_code": 288,
+	"city_name": "Tucurui"
+},
+{
+	"city_code": 289,
+	"city_name": "Ulianopolis"
+},
+{
+	"city_code": 290,
+	"city_name": "Uruara"
+},
+{
+	"city_code": 291,
+	"city_name": "Vigia"
+},
+{
+	"city_code": 292,
+	"city_name": "Viseu"
+},
+{
+	"city_code": 293,
+	"city_name": "Vitoria do Xingu"
+},
+{
+	"city_code": 294,
+	"city_name": "Xinguara"
+}]

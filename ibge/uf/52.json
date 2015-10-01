@@ -1,0 +1,984 @@
+[{
+	"city_code": 5319,
+	"city_name": "Abadia de Goias"
+},
+{
+	"city_code": 5320,
+	"city_name": "Abadiania"
+},
+{
+	"city_code": 5321,
+	"city_name": "Acreuna"
+},
+{
+	"city_code": 5322,
+	"city_name": "Adelandia"
+},
+{
+	"city_code": 5323,
+	"city_name": "Agua Fria de Goias"
+},
+{
+	"city_code": 5324,
+	"city_name": "Agua Limpa"
+},
+{
+	"city_code": 5325,
+	"city_name": "Aguas Lindas de Goias"
+},
+{
+	"city_code": 5326,
+	"city_name": "Alexania"
+},
+{
+	"city_code": 5327,
+	"city_name": "Aloandia"
+},
+{
+	"city_code": 5328,
+	"city_name": "Alto Horizonte"
+},
+{
+	"city_code": 5329,
+	"city_name": "Alto Paraiso de Goias"
+},
+{
+	"city_code": 5330,
+	"city_name": "Alvorada do Norte"
+},
+{
+	"city_code": 5331,
+	"city_name": "Amaralina"
+},
+{
+	"city_code": 5332,
+	"city_name": "Americano do Brasil"
+},
+{
+	"city_code": 5333,
+	"city_name": "Amorinopolis"
+},
+{
+	"city_code": 5334,
+	"city_name": "Anapolis"
+},
+{
+	"city_code": 5335,
+	"city_name": "Anhanguera"
+},
+{
+	"city_code": 5336,
+	"city_name": "Anicuns"
+},
+{
+	"city_code": 5337,
+	"city_name": "Aparecida de Goiania"
+},
+{
+	"city_code": 5338,
+	"city_name": "Aparecida do Rio Doce"
+},
+{
+	"city_code": 5339,
+	"city_name": "Apore"
+},
+{
+	"city_code": 5340,
+	"city_name": "Aracu"
+},
+{
+	"city_code": 5341,
+	"city_name": "Aragarcas"
+},
+{
+	"city_code": 5342,
+	"city_name": "Aragoiania"
+},
+{
+	"city_code": 5343,
+	"city_name": "Araguapaz"
+},
+{
+	"city_code": 5344,
+	"city_name": "Arenopolis"
+},
+{
+	"city_code": 5345,
+	"city_name": "Aruana"
+},
+{
+	"city_code": 5346,
+	"city_name": "Aurilandia"
+},
+{
+	"city_code": 5347,
+	"city_name": "Avelinopolis"
+},
+{
+	"city_code": 5348,
+	"city_name": "Baliza"
+},
+{
+	"city_code": 5349,
+	"city_name": "Barro Alto"
+},
+{
+	"city_code": 5350,
+	"city_name": "Bela Vista de Goias"
+},
+{
+	"city_code": 5351,
+	"city_name": "Bom Jardim de Goias"
+},
+{
+	"city_code": 5352,
+	"city_name": "Bom Jesus de Goias"
+},
+{
+	"city_code": 5353,
+	"city_name": "Bonfinopolis"
+},
+{
+	"city_code": 5354,
+	"city_name": "Bonopolis"
+},
+{
+	"city_code": 5355,
+	"city_name": "Brazabrantes"
+},
+{
+	"city_code": 5356,
+	"city_name": "Britania"
+},
+{
+	"city_code": 5357,
+	"city_name": "Buriti Alegre"
+},
+{
+	"city_code": 5358,
+	"city_name": "Buriti de Goias"
+},
+{
+	"city_code": 5359,
+	"city_name": "Buritinopolis"
+},
+{
+	"city_code": 5360,
+	"city_name": "Cabeceiras"
+},
+{
+	"city_code": 5361,
+	"city_name": "Cachoeira Alta"
+},
+{
+	"city_code": 5362,
+	"city_name": "Cachoeira de Goias"
+},
+{
+	"city_code": 5363,
+	"city_name": "Cachoeira Dourada"
+},
+{
+	"city_code": 5364,
+	"city_name": "Cacu"
+},
+{
+	"city_code": 5365,
+	"city_name": "Caiaponia"
+},
+{
+	"city_code": 5366,
+	"city_name": "Caldas Novas"
+},
+{
+	"city_code": 5367,
+	"city_name": "Caldazinha"
+},
+{
+	"city_code": 5368,
+	"city_name": "Campestre de Goias"
+},
+{
+	"city_code": 5369,
+	"city_name": "Campinacu"
+},
+{
+	"city_code": 5370,
+	"city_name": "Campinorte"
+},
+{
+	"city_code": 5371,
+	"city_name": "Campo Alegre de Goias"
+},
+{
+	"city_code": 5372,
+	"city_name": "Campo Limpo de Goias"
+},
+{
+	"city_code": 5373,
+	"city_name": "Campos Belos"
+},
+{
+	"city_code": 5374,
+	"city_name": "Campos Verdes"
+},
+{
+	"city_code": 5375,
+	"city_name": "Carmo do Rio Verde"
+},
+{
+	"city_code": 5376,
+	"city_name": "Castelandia"
+},
+{
+	"city_code": 5377,
+	"city_name": "Catalao"
+},
+{
+	"city_code": 5378,
+	"city_name": "Caturai"
+},
+{
+	"city_code": 5379,
+	"city_name": "Cavalcante"
+},
+{
+	"city_code": 5380,
+	"city_name": "Ceres"
+},
+{
+	"city_code": 5381,
+	"city_name": "Cezarina"
+},
+{
+	"city_code": 5382,
+	"city_name": "Chapadao do Ceu"
+},
+{
+	"city_code": 5383,
+	"city_name": "Cidade Ocidental"
+},
+{
+	"city_code": 5384,
+	"city_name": "Cocalzinho de Goias"
+},
+{
+	"city_code": 5385,
+	"city_name": "Colinas do Sul"
+},
+{
+	"city_code": 5386,
+	"city_name": "Corrego do Ouro"
+},
+{
+	"city_code": 5387,
+	"city_name": "Corumba de Goias"
+},
+{
+	"city_code": 5388,
+	"city_name": "Corumbaiba"
+},
+{
+	"city_code": 5389,
+	"city_name": "Cristalina"
+},
+{
+	"city_code": 5390,
+	"city_name": "Cristianopolis"
+},
+{
+	"city_code": 5391,
+	"city_name": "Crixas"
+},
+{
+	"city_code": 5392,
+	"city_name": "Crominia"
+},
+{
+	"city_code": 5393,
+	"city_name": "Cumari"
+},
+{
+	"city_code": 5394,
+	"city_name": "Damianopolis"
+},
+{
+	"city_code": 5395,
+	"city_name": "Damolandia"
+},
+{
+	"city_code": 5396,
+	"city_name": "Davinopolis"
+},
+{
+	"city_code": 5397,
+	"city_name": "Diorama"
+},
+{
+	"city_code": 5398,
+	"city_name": "Divinopolis de Goias"
+},
+{
+	"city_code": 5399,
+	"city_name": "Doverlandia"
+},
+{
+	"city_code": 5400,
+	"city_name": "Edealina"
+},
+{
+	"city_code": 5401,
+	"city_name": "Edeia"
+},
+{
+	"city_code": 5402,
+	"city_name": "Estrela do Norte"
+},
+{
+	"city_code": 5403,
+	"city_name": "Faina"
+},
+{
+	"city_code": 5404,
+	"city_name": "Fazenda Nova"
+},
+{
+	"city_code": 5405,
+	"city_name": "Firminopolis"
+},
+{
+	"city_code": 5406,
+	"city_name": "Flores de Goias"
+},
+{
+	"city_code": 5407,
+	"city_name": "Formosa"
+},
+{
+	"city_code": 5408,
+	"city_name": "Formoso"
+},
+{
+	"city_code": 5409,
+	"city_name": "Gameleira de Goias"
+},
+{
+	"city_code": 5410,
+	"city_name": "Goianapolis"
+},
+{
+	"city_code": 5411,
+	"city_name": "Goiandira"
+},
+{
+	"city_code": 5412,
+	"city_name": "Goianesia"
+},
+{
+	"city_code": 5413,
+	"city_name": "Goiania"
+},
+{
+	"city_code": 5414,
+	"city_name": "Goianira"
+},
+{
+	"city_code": 5415,
+	"city_name": "Goias"
+},
+{
+	"city_code": 5416,
+	"city_name": "Goiatuba"
+},
+{
+	"city_code": 5417,
+	"city_name": "Gouvelandia"
+},
+{
+	"city_code": 5418,
+	"city_name": "Guapo"
+},
+{
+	"city_code": 5419,
+	"city_name": "Guaraita"
+},
+{
+	"city_code": 5420,
+	"city_name": "Guarani de Goias"
+},
+{
+	"city_code": 5421,
+	"city_name": "Guarinos"
+},
+{
+	"city_code": 5422,
+	"city_name": "Heitorai"
+},
+{
+	"city_code": 5423,
+	"city_name": "Hidrolandia"
+},
+{
+	"city_code": 5424,
+	"city_name": "Hidrolina"
+},
+{
+	"city_code": 5425,
+	"city_name": "Iaciara"
+},
+{
+	"city_code": 5426,
+	"city_name": "Inaciolandia"
+},
+{
+	"city_code": 5427,
+	"city_name": "Indiara"
+},
+{
+	"city_code": 5428,
+	"city_name": "Inhumas"
+},
+{
+	"city_code": 5429,
+	"city_name": "Ipameri"
+},
+{
+	"city_code": 5430,
+	"city_name": "Ipiranga de Goias"
+},
+{
+	"city_code": 5431,
+	"city_name": "Ipora"
+},
+{
+	"city_code": 5432,
+	"city_name": "Israelandia"
+},
+{
+	"city_code": 5433,
+	"city_name": "Itaberai"
+},
+{
+	"city_code": 5434,
+	"city_name": "Itaguari"
+},
+{
+	"city_code": 5435,
+	"city_name": "Itaguaru"
+},
+{
+	"city_code": 5436,
+	"city_name": "Itaja"
+},
+{
+	"city_code": 5437,
+	"city_name": "Itapaci"
+},
+{
+	"city_code": 5438,
+	"city_name": "Itapirapua"
+},
+{
+	"city_code": 5439,
+	"city_name": "Itapuranga"
+},
+{
+	"city_code": 5440,
+	"city_name": "Itaruma"
+},
+{
+	"city_code": 5441,
+	"city_name": "Itaucu"
+},
+{
+	"city_code": 5442,
+	"city_name": "Itumbiara"
+},
+{
+	"city_code": 5443,
+	"city_name": "Ivolandia"
+},
+{
+	"city_code": 5444,
+	"city_name": "Jandaia"
+},
+{
+	"city_code": 5445,
+	"city_name": "Jaragua"
+},
+{
+	"city_code": 5446,
+	"city_name": "Jatai"
+},
+{
+	"city_code": 5447,
+	"city_name": "Jaupaci"
+},
+{
+	"city_code": 5448,
+	"city_name": "Jesupolis"
+},
+{
+	"city_code": 5449,
+	"city_name": "Joviania"
+},
+{
+	"city_code": 5450,
+	"city_name": "Jussara"
+},
+{
+	"city_code": 5451,
+	"city_name": "Lagoa Santa"
+},
+{
+	"city_code": 5452,
+	"city_name": "Leopoldo de Bulhoes"
+},
+{
+	"city_code": 5453,
+	"city_name": "Luziania"
+},
+{
+	"city_code": 5454,
+	"city_name": "Mairipotaba"
+},
+{
+	"city_code": 5455,
+	"city_name": "Mambai"
+},
+{
+	"city_code": 5456,
+	"city_name": "Mara Rosa"
+},
+{
+	"city_code": 5457,
+	"city_name": "Marzagao"
+},
+{
+	"city_code": 5458,
+	"city_name": "Matrincha"
+},
+{
+	"city_code": 5459,
+	"city_name": "Maurilandia"
+},
+{
+	"city_code": 5460,
+	"city_name": "Mimoso de Goias"
+},
+{
+	"city_code": 5461,
+	"city_name": "Minacu"
+},
+{
+	"city_code": 5462,
+	"city_name": "Mineiros"
+},
+{
+	"city_code": 5463,
+	"city_name": "Moipora"
+},
+{
+	"city_code": 5464,
+	"city_name": "Monte Alegre de Goias"
+},
+{
+	"city_code": 5465,
+	"city_name": "Montes Claros de Goias"
+},
+{
+	"city_code": 5466,
+	"city_name": "Montividiu"
+},
+{
+	"city_code": 5467,
+	"city_name": "Montividiu do Norte"
+},
+{
+	"city_code": 5468,
+	"city_name": "Morrinhos"
+},
+{
+	"city_code": 5469,
+	"city_name": "Morro Agudo de Goias"
+},
+{
+	"city_code": 5470,
+	"city_name": "Mossamedes"
+},
+{
+	"city_code": 5471,
+	"city_name": "Mozarlandia"
+},
+{
+	"city_code": 5472,
+	"city_name": "Mundo Novo"
+},
+{
+	"city_code": 5473,
+	"city_name": "Mutunopolis"
+},
+{
+	"city_code": 5474,
+	"city_name": "Nazario"
+},
+{
+	"city_code": 5475,
+	"city_name": "Neropolis"
+},
+{
+	"city_code": 5476,
+	"city_name": "Niquelandia"
+},
+{
+	"city_code": 5477,
+	"city_name": "Nova America"
+},
+{
+	"city_code": 5478,
+	"city_name": "Nova Aurora"
+},
+{
+	"city_code": 5479,
+	"city_name": "Nova Crixas"
+},
+{
+	"city_code": 5480,
+	"city_name": "Nova Gloria"
+},
+{
+	"city_code": 5481,
+	"city_name": "Nova Iguacu de Goias"
+},
+{
+	"city_code": 5482,
+	"city_name": "Nova Roma"
+},
+{
+	"city_code": 5483,
+	"city_name": "Nova Veneza"
+},
+{
+	"city_code": 5484,
+	"city_name": "Novo Brasil"
+},
+{
+	"city_code": 5485,
+	"city_name": "Novo Gama"
+},
+{
+	"city_code": 5486,
+	"city_name": "Novo Planalto"
+},
+{
+	"city_code": 5487,
+	"city_name": "Orizona"
+},
+{
+	"city_code": 5488,
+	"city_name": "Ouro Verde de Goias"
+},
+{
+	"city_code": 5489,
+	"city_name": "Ouvidor"
+},
+{
+	"city_code": 5490,
+	"city_name": "Padre Bernardo"
+},
+{
+	"city_code": 5491,
+	"city_name": "Palestina de Goias"
+},
+{
+	"city_code": 5492,
+	"city_name": "Palmeiras de Goias"
+},
+{
+	"city_code": 5493,
+	"city_name": "Palmelo"
+},
+{
+	"city_code": 5494,
+	"city_name": "Palminopolis"
+},
+{
+	"city_code": 5495,
+	"city_name": "Panama"
+},
+{
+	"city_code": 5496,
+	"city_name": "Paranaiguara"
+},
+{
+	"city_code": 5497,
+	"city_name": "Parauna"
+},
+{
+	"city_code": 5498,
+	"city_name": "Perolandia"
+},
+{
+	"city_code": 5499,
+	"city_name": "Petrolina de Goias"
+},
+{
+	"city_code": 5500,
+	"city_name": "Pilar de Goias"
+},
+{
+	"city_code": 5501,
+	"city_name": "Piracanjuba"
+},
+{
+	"city_code": 5502,
+	"city_name": "Piranhas"
+},
+{
+	"city_code": 5503,
+	"city_name": "Pirenopolis"
+},
+{
+	"city_code": 5504,
+	"city_name": "Pires do Rio"
+},
+{
+	"city_code": 5505,
+	"city_name": "Planaltina"
+},
+{
+	"city_code": 5506,
+	"city_name": "Pontalina"
+},
+{
+	"city_code": 5507,
+	"city_name": "Porangatu"
+},
+{
+	"city_code": 5508,
+	"city_name": "Porteirao"
+},
+{
+	"city_code": 5509,
+	"city_name": "Portelandia"
+},
+{
+	"city_code": 5510,
+	"city_name": "Posse"
+},
+{
+	"city_code": 5511,
+	"city_name": "Professor Jamil"
+},
+{
+	"city_code": 5512,
+	"city_name": "Quirinopolis"
+},
+{
+	"city_code": 5513,
+	"city_name": "Rialma"
+},
+{
+	"city_code": 5514,
+	"city_name": "Rianapolis"
+},
+{
+	"city_code": 5515,
+	"city_name": "Rio Quente"
+},
+{
+	"city_code": 5516,
+	"city_name": "Rio Verde"
+},
+{
+	"city_code": 5517,
+	"city_name": "Rubiataba"
+},
+{
+	"city_code": 5518,
+	"city_name": "Sanclerlandia"
+},
+{
+	"city_code": 5519,
+	"city_name": "Santa Barbara de Goias"
+},
+{
+	"city_code": 5520,
+	"city_name": "Santa Cruz de Goias"
+},
+{
+	"city_code": 5521,
+	"city_name": "Santa Fe de Goias"
+},
+{
+	"city_code": 5522,
+	"city_name": "Santa Helena de Goias"
+},
+{
+	"city_code": 5523,
+	"city_name": "Santa Isabel"
+},
+{
+	"city_code": 5524,
+	"city_name": "Santa Rita do Araguaia"
+},
+{
+	"city_code": 5525,
+	"city_name": "Santa Rita do Novo Destino"
+},
+{
+	"city_code": 5526,
+	"city_name": "Santa Rosa de Goias"
+},
+{
+	"city_code": 5527,
+	"city_name": "Santa Tereza de Goias"
+},
+{
+	"city_code": 5528,
+	"city_name": "Santa Terezinha de Goias"
+},
+{
+	"city_code": 5529,
+	"city_name": "Santo Antonio da Barra"
+},
+{
+	"city_code": 5530,
+	"city_name": "Santo Antonio de Goias"
+},
+{
+	"city_code": 5531,
+	"city_name": "Santo Antonio do Descoberto"
+},
+{
+	"city_code": 5532,
+	"city_name": "Sao Domingos"
+},
+{
+	"city_code": 5533,
+	"city_name": "Sao Francisco de Goias"
+},
+{
+	"city_code": 5534,
+	"city_name": "Sao Joao da Parauna"
+},
+{
+	"city_code": 5535,
+	"city_name": "Sao Joao dAlianca"
+},
+{
+	"city_code": 5536,
+	"city_name": "Sao Luis de Montes Belos"
+},
+{
+	"city_code": 5537,
+	"city_name": "Sao Luiz do Norte"
+},
+{
+	"city_code": 5538,
+	"city_name": "Sao Miguel do Araguaia"
+},
+{
+	"city_code": 5539,
+	"city_name": "Sao Miguel do Passa Quatro"
+},
+{
+	"city_code": 5540,
+	"city_name": "Sao Patricio"
+},
+{
+	"city_code": 5541,
+	"city_name": "Sao Simao"
+},
+{
+	"city_code": 5542,
+	"city_name": "Senador Canedo"
+},
+{
+	"city_code": 5543,
+	"city_name": "Serranopolis"
+},
+{
+	"city_code": 5544,
+	"city_name": "Silvania"
+},
+{
+	"city_code": 5545,
+	"city_name": "Simolandia"
+},
+{
+	"city_code": 5546,
+	"city_name": "Sitio dAbadia"
+},
+{
+	"city_code": 5547,
+	"city_name": "Taquaral de Goias"
+},
+{
+	"city_code": 5548,
+	"city_name": "Teresina de Goias"
+},
+{
+	"city_code": 5549,
+	"city_name": "Terezopolis de Goias"
+},
+{
+	"city_code": 5550,
+	"city_name": "Tres Ranchos"
+},
+{
+	"city_code": 5551,
+	"city_name": "Trindade"
+},
+{
+	"city_code": 5552,
+	"city_name": "Trombas"
+},
+{
+	"city_code": 5553,
+	"city_name": "Turvania"
+},
+{
+	"city_code": 5554,
+	"city_name": "Turvelandia"
+},
+{
+	"city_code": 5555,
+	"city_name": "Uirapuru"
+},
+{
+	"city_code": 5556,
+	"city_name": "Uruacu"
+},
+{
+	"city_code": 5557,
+	"city_name": "Uruana"
+},
+{
+	"city_code": 5558,
+	"city_name": "Urutai"
+},
+{
+	"city_code": 5559,
+	"city_name": "Valparaiso de Goias"
+},
+{
+	"city_code": 5560,
+	"city_name": "Varjao"
+},
+{
+	"city_code": 5561,
+	"city_name": "Vianopolis"
+},
+{
+	"city_code": 5562,
+	"city_name": "Vicentinopolis"
+},
+{
+	"city_code": 5563,
+	"city_name": "Vila Boa"
+},
+{
+	"city_code": 5564,
+	"city_name": "Vila Propicio"
+}]

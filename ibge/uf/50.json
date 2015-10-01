@@ -1,0 +1,312 @@
+[{
+	"city_code": 5100,
+	"city_name": "Agua Clara"
+},
+{
+	"city_code": 5101,
+	"city_name": "Alcinopolis"
+},
+{
+	"city_code": 5102,
+	"city_name": "Amambai"
+},
+{
+	"city_code": 5103,
+	"city_name": "Anastacio"
+},
+{
+	"city_code": 5104,
+	"city_name": "Anaurilandia"
+},
+{
+	"city_code": 5105,
+	"city_name": "Angelica"
+},
+{
+	"city_code": 5106,
+	"city_name": "Antonio Joao"
+},
+{
+	"city_code": 5107,
+	"city_name": "Aparecida do Taboado"
+},
+{
+	"city_code": 5108,
+	"city_name": "Aquidauana"
+},
+{
+	"city_code": 5109,
+	"city_name": "Aral Moreira"
+},
+{
+	"city_code": 5110,
+	"city_name": "Bandeirantes"
+},
+{
+	"city_code": 5111,
+	"city_name": "Bataguassu"
+},
+{
+	"city_code": 5112,
+	"city_name": "Bataypora"
+},
+{
+	"city_code": 5113,
+	"city_name": "Bela Vista"
+},
+{
+	"city_code": 5114,
+	"city_name": "Bodoquena"
+},
+{
+	"city_code": 5115,
+	"city_name": "Bonito"
+},
+{
+	"city_code": 5116,
+	"city_name": "Brasilandia"
+},
+{
+	"city_code": 5117,
+	"city_name": "Caarapo"
+},
+{
+	"city_code": 5118,
+	"city_name": "Camapua"
+},
+{
+	"city_code": 5119,
+	"city_name": "Campo Grande"
+},
+{
+	"city_code": 5120,
+	"city_name": "Caracol"
+},
+{
+	"city_code": 5121,
+	"city_name": "Cassilandia"
+},
+{
+	"city_code": 5122,
+	"city_name": "Chapadao do Sul"
+},
+{
+	"city_code": 5123,
+	"city_name": "Corguinho"
+},
+{
+	"city_code": 5124,
+	"city_name": "Coronel Sapucaia"
+},
+{
+	"city_code": 5125,
+	"city_name": "Corumba"
+},
+{
+	"city_code": 5126,
+	"city_name": "Costa Rica"
+},
+{
+	"city_code": 5127,
+	"city_name": "Coxim"
+},
+{
+	"city_code": 5128,
+	"city_name": "Deodapolis"
+},
+{
+	"city_code": 5129,
+	"city_name": "Dois Irmaos do Buriti"
+},
+{
+	"city_code": 5130,
+	"city_name": "Douradina"
+},
+{
+	"city_code": 5131,
+	"city_name": "Dourados"
+},
+{
+	"city_code": 5132,
+	"city_name": "Eldorado"
+},
+{
+	"city_code": 5133,
+	"city_name": "Fatima do Sul"
+},
+{
+	"city_code": 5134,
+	"city_name": "Figueirao"
+},
+{
+	"city_code": 5135,
+	"city_name": "Gloria de Dourados"
+},
+{
+	"city_code": 5136,
+	"city_name": "Guia Lopes da Laguna"
+},
+{
+	"city_code": 5137,
+	"city_name": "Iguatemi"
+},
+{
+	"city_code": 5138,
+	"city_name": "Inocencia"
+},
+{
+	"city_code": 5139,
+	"city_name": "Itapora"
+},
+{
+	"city_code": 5140,
+	"city_name": "Itaquirai"
+},
+{
+	"city_code": 5141,
+	"city_name": "Ivinhema"
+},
+{
+	"city_code": 5142,
+	"city_name": "Japora"
+},
+{
+	"city_code": 5143,
+	"city_name": "Jaraguari"
+},
+{
+	"city_code": 5144,
+	"city_name": "Jardim"
+},
+{
+	"city_code": 5145,
+	"city_name": "Jatei"
+},
+{
+	"city_code": 5146,
+	"city_name": "Juti"
+},
+{
+	"city_code": 5147,
+	"city_name": "Ladario"
+},
+{
+	"city_code": 5148,
+	"city_name": "Laguna Carapa"
+},
+{
+	"city_code": 5149,
+	"city_name": "Maracaju"
+},
+{
+	"city_code": 5150,
+	"city_name": "Miranda"
+},
+{
+	"city_code": 5151,
+	"city_name": "Mundo Novo"
+},
+{
+	"city_code": 5152,
+	"city_name": "Navirai"
+},
+{
+	"city_code": 5153,
+	"city_name": "Nioaque"
+},
+{
+	"city_code": 5154,
+	"city_name": "Nova Alvorada do Sul"
+},
+{
+	"city_code": 5155,
+	"city_name": "Nova Andradina"
+},
+{
+	"city_code": 5156,
+	"city_name": "Novo Horizonte do Sul"
+},
+{
+	"city_code": 5157,
+	"city_name": "Paranaiba"
+},
+{
+	"city_code": 5158,
+	"city_name": "Paranhos"
+},
+{
+	"city_code": 5159,
+	"city_name": "Pedro Gomes"
+},
+{
+	"city_code": 5160,
+	"city_name": "Ponta Pora"
+},
+{
+	"city_code": 5161,
+	"city_name": "Porto Murtinho"
+},
+{
+	"city_code": 5162,
+	"city_name": "Ribas do Rio Pardo"
+},
+{
+	"city_code": 5163,
+	"city_name": "Rio Brilhante"
+},
+{
+	"city_code": 5164,
+	"city_name": "Rio Negro"
+},
+{
+	"city_code": 5165,
+	"city_name": "Rio Verde de Mato Grosso"
+},
+{
+	"city_code": 5166,
+	"city_name": "Rochedo"
+},
+{
+	"city_code": 5167,
+	"city_name": "Santa Rita do Pardo"
+},
+{
+	"city_code": 5168,
+	"city_name": "Sao Gabriel do Oeste"
+},
+{
+	"city_code": 5169,
+	"city_name": "Selviria"
+},
+{
+	"city_code": 5170,
+	"city_name": "Sete Quedas"
+},
+{
+	"city_code": 5171,
+	"city_name": "Sidrolandia"
+},
+{
+	"city_code": 5172,
+	"city_name": "Sonora"
+},
+{
+	"city_code": 5173,
+	"city_name": "Tacuru"
+},
+{
+	"city_code": 5174,
+	"city_name": "Taquarussu"
+},
+{
+	"city_code": 5175,
+	"city_name": "Terenos"
+},
+{
+	"city_code": 5176,
+	"city_name": "Tres Lagoas"
+},
+{
+	"city_code": 5177,
+	"city_name": "Vicentina"
+}]

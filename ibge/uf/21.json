@@ -1,0 +1,868 @@
+[{
+	"city_code": 450,
+	"city_name": "Acailandia"
+},
+{
+	"city_code": 451,
+	"city_name": "Afonso Cunha"
+},
+{
+	"city_code": 452,
+	"city_name": "Agua Doce do Maranhao"
+},
+{
+	"city_code": 453,
+	"city_name": "Alcantara"
+},
+{
+	"city_code": 454,
+	"city_name": "Aldeias Altas"
+},
+{
+	"city_code": 455,
+	"city_name": "Altamira do Maranhao"
+},
+{
+	"city_code": 456,
+	"city_name": "Alto Alegre do Maranhao"
+},
+{
+	"city_code": 457,
+	"city_name": "Alto Alegre do Pindare"
+},
+{
+	"city_code": 458,
+	"city_name": "Alto Parnaiba"
+},
+{
+	"city_code": 459,
+	"city_name": "Amapa do Maranhao"
+},
+{
+	"city_code": 460,
+	"city_name": "Amarante do Maranhao"
+},
+{
+	"city_code": 461,
+	"city_name": "Anajatuba"
+},
+{
+	"city_code": 462,
+	"city_name": "Anapurus"
+},
+{
+	"city_code": 463,
+	"city_name": "Apicum-Acu"
+},
+{
+	"city_code": 464,
+	"city_name": "Araguana"
+},
+{
+	"city_code": 465,
+	"city_name": "Araioses"
+},
+{
+	"city_code": 466,
+	"city_name": "Arame"
+},
+{
+	"city_code": 467,
+	"city_name": "Arari"
+},
+{
+	"city_code": 468,
+	"city_name": "Axixa"
+},
+{
+	"city_code": 469,
+	"city_name": "Bacabal"
+},
+{
+	"city_code": 470,
+	"city_name": "Bacabeira"
+},
+{
+	"city_code": 471,
+	"city_name": "Bacuri"
+},
+{
+	"city_code": 472,
+	"city_name": "Bacurituba"
+},
+{
+	"city_code": 473,
+	"city_name": "Balsas"
+},
+{
+	"city_code": 474,
+	"city_name": "Barao de Grajau"
+},
+{
+	"city_code": 475,
+	"city_name": "Barra do Corda"
+},
+{
+	"city_code": 476,
+	"city_name": "Barreirinhas"
+},
+{
+	"city_code": 477,
+	"city_name": "Bela Vista do Maranhao"
+},
+{
+	"city_code": 478,
+	"city_name": "Belagua"
+},
+{
+	"city_code": 479,
+	"city_name": "Benedito Leite"
+},
+{
+	"city_code": 480,
+	"city_name": "Bequimao"
+},
+{
+	"city_code": 481,
+	"city_name": "Bernardo do Mearim"
+},
+{
+	"city_code": 482,
+	"city_name": "Boa Vista do Gurupi"
+},
+{
+	"city_code": 483,
+	"city_name": "Bom Jardim"
+},
+{
+	"city_code": 484,
+	"city_name": "Bom Jesus das Selvas"
+},
+{
+	"city_code": 485,
+	"city_name": "Bom Lugar"
+},
+{
+	"city_code": 486,
+	"city_name": "Brejo"
+},
+{
+	"city_code": 487,
+	"city_name": "Brejo de Areia"
+},
+{
+	"city_code": 488,
+	"city_name": "Buriti"
+},
+{
+	"city_code": 489,
+	"city_name": "Buriti Bravo"
+},
+{
+	"city_code": 490,
+	"city_name": "Buriticupu"
+},
+{
+	"city_code": 491,
+	"city_name": "Buritirana"
+},
+{
+	"city_code": 492,
+	"city_name": "Cachoeira Grande"
+},
+{
+	"city_code": 493,
+	"city_name": "Cajapio"
+},
+{
+	"city_code": 494,
+	"city_name": "Cajari"
+},
+{
+	"city_code": 495,
+	"city_name": "Campestre do Maranhao"
+},
+{
+	"city_code": 496,
+	"city_name": "Candido Mendes"
+},
+{
+	"city_code": 497,
+	"city_name": "Cantanhede"
+},
+{
+	"city_code": 498,
+	"city_name": "Capinzal do Norte"
+},
+{
+	"city_code": 499,
+	"city_name": "Carolina"
+},
+{
+	"city_code": 500,
+	"city_name": "Carutapera"
+},
+{
+	"city_code": 501,
+	"city_name": "Caxias"
+},
+{
+	"city_code": 502,
+	"city_name": "Cedral"
+},
+{
+	"city_code": 503,
+	"city_name": "Central do Maranhao"
+},
+{
+	"city_code": 504,
+	"city_name": "Centro do Guilherme"
+},
+{
+	"city_code": 505,
+	"city_name": "Centro Novo do Maranhao"
+},
+{
+	"city_code": 506,
+	"city_name": "Chapadinha"
+},
+{
+	"city_code": 507,
+	"city_name": "Cidelandia"
+},
+{
+	"city_code": 508,
+	"city_name": "Codo"
+},
+{
+	"city_code": 509,
+	"city_name": "Coelho Neto"
+},
+{
+	"city_code": 510,
+	"city_name": "Colinas"
+},
+{
+	"city_code": 511,
+	"city_name": "Conceicao do Lago-Acu"
+},
+{
+	"city_code": 512,
+	"city_name": "Coroata"
+},
+{
+	"city_code": 513,
+	"city_name": "Cururupu"
+},
+{
+	"city_code": 514,
+	"city_name": "Davinopolis"
+},
+{
+	"city_code": 515,
+	"city_name": "Dom Pedro"
+},
+{
+	"city_code": 516,
+	"city_name": "Duque Bacelar"
+},
+{
+	"city_code": 517,
+	"city_name": "Esperantinopolis"
+},
+{
+	"city_code": 518,
+	"city_name": "Estreito"
+},
+{
+	"city_code": 519,
+	"city_name": "Feira Nova do Maranhao"
+},
+{
+	"city_code": 520,
+	"city_name": "Fernando Falcao"
+},
+{
+	"city_code": 521,
+	"city_name": "Formosa da Serra Negra"
+},
+{
+	"city_code": 522,
+	"city_name": "Fortaleza dos Nogueiras"
+},
+{
+	"city_code": 523,
+	"city_name": "Fortuna"
+},
+{
+	"city_code": 524,
+	"city_name": "Godofredo Viana"
+},
+{
+	"city_code": 525,
+	"city_name": "Goncalves Dias"
+},
+{
+	"city_code": 526,
+	"city_name": "Governador Archer"
+},
+{
+	"city_code": 527,
+	"city_name": "Governador Edison Lobao"
+},
+{
+	"city_code": 528,
+	"city_name": "Governador Eugenio Barros"
+},
+{
+	"city_code": 529,
+	"city_name": "Governador Luiz Rocha"
+},
+{
+	"city_code": 530,
+	"city_name": "Governador Newton Bello"
+},
+{
+	"city_code": 531,
+	"city_name": "Governador Nunes Freire"
+},
+{
+	"city_code": 532,
+	"city_name": "Graca Aranha"
+},
+{
+	"city_code": 533,
+	"city_name": "Grajau"
+},
+{
+	"city_code": 534,
+	"city_name": "Guimaraes"
+},
+{
+	"city_code": 535,
+	"city_name": "Humberto de Campos"
+},
+{
+	"city_code": 536,
+	"city_name": "Icatu"
+},
+{
+	"city_code": 537,
+	"city_name": "Igarape do Meio"
+},
+{
+	"city_code": 538,
+	"city_name": "Igarape Grande"
+},
+{
+	"city_code": 539,
+	"city_name": "Imperatriz"
+},
+{
+	"city_code": 540,
+	"city_name": "Itaipava do Grajau"
+},
+{
+	"city_code": 541,
+	"city_name": "Itapecuru Mirim"
+},
+{
+	"city_code": 542,
+	"city_name": "Itinga do Maranhao"
+},
+{
+	"city_code": 543,
+	"city_name": "Jatoba"
+},
+{
+	"city_code": 544,
+	"city_name": "Jenipapo dos Vieiras"
+},
+{
+	"city_code": 545,
+	"city_name": "Joao Lisboa"
+},
+{
+	"city_code": 546,
+	"city_name": "Joselandia"
+},
+{
+	"city_code": 547,
+	"city_name": "Junco do Maranhao"
+},
+{
+	"city_code": 548,
+	"city_name": "Lago da Pedra"
+},
+{
+	"city_code": 549,
+	"city_name": "Lago do Junco"
+},
+{
+	"city_code": 550,
+	"city_name": "Lago dos Rodrigues"
+},
+{
+	"city_code": 551,
+	"city_name": "Lago Verde"
+},
+{
+	"city_code": 552,
+	"city_name": "Lagoa do Mato"
+},
+{
+	"city_code": 553,
+	"city_name": "Lagoa Grande do Maranhao"
+},
+{
+	"city_code": 554,
+	"city_name": "Lajeado Novo"
+},
+{
+	"city_code": 555,
+	"city_name": "Lima Campos"
+},
+{
+	"city_code": 556,
+	"city_name": "Loreto"
+},
+{
+	"city_code": 557,
+	"city_name": "Luis Domingues"
+},
+{
+	"city_code": 558,
+	"city_name": "Magalhaes de Almeida"
+},
+{
+	"city_code": 559,
+	"city_name": "Maracacume"
+},
+{
+	"city_code": 560,
+	"city_name": "Maraja do Sena"
+},
+{
+	"city_code": 561,
+	"city_name": "Maranhaozinho"
+},
+{
+	"city_code": 562,
+	"city_name": "Mata Roma"
+},
+{
+	"city_code": 563,
+	"city_name": "Matinha"
+},
+{
+	"city_code": 564,
+	"city_name": "Matoes"
+},
+{
+	"city_code": 565,
+	"city_name": "Matoes do Norte"
+},
+{
+	"city_code": 566,
+	"city_name": "Milagres do Maranhao"
+},
+{
+	"city_code": 567,
+	"city_name": "Mirador"
+},
+{
+	"city_code": 568,
+	"city_name": "Miranda do Norte"
+},
+{
+	"city_code": 569,
+	"city_name": "Mirinzal"
+},
+{
+	"city_code": 570,
+	"city_name": "Moncao"
+},
+{
+	"city_code": 571,
+	"city_name": "Montes Altos"
+},
+{
+	"city_code": 572,
+	"city_name": "Morros"
+},
+{
+	"city_code": 573,
+	"city_name": "Nina Rodrigues"
+},
+{
+	"city_code": 574,
+	"city_name": "Nova Colinas"
+},
+{
+	"city_code": 575,
+	"city_name": "Nova Iorque"
+},
+{
+	"city_code": 576,
+	"city_name": "Nova Olinda do Maranhao"
+},
+{
+	"city_code": 577,
+	"city_name": "Olho d'?ua das Cunhas"
+},
+{
+	"city_code": 578,
+	"city_name": "Olinda Nova do Maranhao"
+},
+{
+	"city_code": 579,
+	"city_name": "Paco do Lumiar"
+},
+{
+	"city_code": 580,
+	"city_name": "Palmeirandia"
+},
+{
+	"city_code": 581,
+	"city_name": "Paraibano"
+},
+{
+	"city_code": 582,
+	"city_name": "Parnarama"
+},
+{
+	"city_code": 583,
+	"city_name": "Passagem Franca"
+},
+{
+	"city_code": 584,
+	"city_name": "Pastos Bons"
+},
+{
+	"city_code": 585,
+	"city_name": "Paulino Neves"
+},
+{
+	"city_code": 586,
+	"city_name": "Paulo Ramos"
+},
+{
+	"city_code": 587,
+	"city_name": "Pedreiras"
+},
+{
+	"city_code": 588,
+	"city_name": "Pedro do Rosario"
+},
+{
+	"city_code": 589,
+	"city_name": "Penalva"
+},
+{
+	"city_code": 590,
+	"city_name": "Peri Mirim"
+},
+{
+	"city_code": 591,
+	"city_name": "Peritoro"
+},
+{
+	"city_code": 592,
+	"city_name": "Pindare-Mirim"
+},
+{
+	"city_code": 593,
+	"city_name": "Pinheiro"
+},
+{
+	"city_code": 594,
+	"city_name": "Pio XII"
+},
+{
+	"city_code": 595,
+	"city_name": "Pirapemas"
+},
+{
+	"city_code": 596,
+	"city_name": "Pocao de Pedras"
+},
+{
+	"city_code": 597,
+	"city_name": "Porto Franco"
+},
+{
+	"city_code": 598,
+	"city_name": "Porto Rico do Maranhao"
+},
+{
+	"city_code": 599,
+	"city_name": "Presidente Dutra"
+},
+{
+	"city_code": 600,
+	"city_name": "Presidente Juscelino"
+},
+{
+	"city_code": 601,
+	"city_name": "Presidente Medici"
+},
+{
+	"city_code": 602,
+	"city_name": "Presidente Sarney"
+},
+{
+	"city_code": 603,
+	"city_name": "Presidente Vargas"
+},
+{
+	"city_code": 604,
+	"city_name": "Primeira Cruz"
+},
+{
+	"city_code": 605,
+	"city_name": "Raposa"
+},
+{
+	"city_code": 606,
+	"city_name": "Riachao"
+},
+{
+	"city_code": 607,
+	"city_name": "Ribamar Fiquene"
+},
+{
+	"city_code": 608,
+	"city_name": "Rosario"
+},
+{
+	"city_code": 609,
+	"city_name": "Sambaiba"
+},
+{
+	"city_code": 610,
+	"city_name": "Santa Filomena do Maranhao"
+},
+{
+	"city_code": 611,
+	"city_name": "Santa Helena"
+},
+{
+	"city_code": 612,
+	"city_name": "Santa Ines"
+},
+{
+	"city_code": 613,
+	"city_name": "Santa Luzia"
+},
+{
+	"city_code": 614,
+	"city_name": "Santa Luzia do Parua"
+},
+{
+	"city_code": 615,
+	"city_name": "Santa Quiteria do Maranhao"
+},
+{
+	"city_code": 616,
+	"city_name": "Santa Rita"
+},
+{
+	"city_code": 617,
+	"city_name": "Santana do Maranhao"
+},
+{
+	"city_code": 618,
+	"city_name": "Santo Amaro do Maranhao"
+},
+{
+	"city_code": 619,
+	"city_name": "Santo Antonio dos Lopes"
+},
+{
+	"city_code": 620,
+	"city_name": "Sao Benedito do Rio Preto"
+},
+{
+	"city_code": 621,
+	"city_name": "Sao Bento"
+},
+{
+	"city_code": 622,
+	"city_name": "Sao Bernardo"
+},
+{
+	"city_code": 623,
+	"city_name": "Sao Domingos do Azeitao"
+},
+{
+	"city_code": 624,
+	"city_name": "Sao Domingos do Maranhao"
+},
+{
+	"city_code": 625,
+	"city_name": "Sao Felix de Balsas"
+},
+{
+	"city_code": 626,
+	"city_name": "Sao Francisco do Brejao"
+},
+{
+	"city_code": 627,
+	"city_name": "Sao Francisco do Maranhao"
+},
+{
+	"city_code": 628,
+	"city_name": "Sao Joao Batista"
+},
+{
+	"city_code": 629,
+	"city_name": "Sao Joao do Caru"
+},
+{
+	"city_code": 630,
+	"city_name": "Sao Joao do Paraiso"
+},
+{
+	"city_code": 631,
+	"city_name": "Sao Joao do Soter"
+},
+{
+	"city_code": 632,
+	"city_name": "Sao Joao dos Patos"
+},
+{
+	"city_code": 633,
+	"city_name": "Sao Jose de Ribamar"
+},
+{
+	"city_code": 634,
+	"city_name": "Sao Jose dos Basilios"
+},
+{
+	"city_code": 635,
+	"city_name": "Sao Luis"
+},
+{
+	"city_code": 636,
+	"city_name": "Sao Luis Gonzaga do Maranhao"
+},
+{
+	"city_code": 637,
+	"city_name": "Sao Mateus do Maranhao"
+},
+{
+	"city_code": 638,
+	"city_name": "Sao Pedro da Agua Branca"
+},
+{
+	"city_code": 639,
+	"city_name": "Sao Pedro dos Crentes"
+},
+{
+	"city_code": 640,
+	"city_name": "Sao Raimundo das Mangabeiras"
+},
+{
+	"city_code": 641,
+	"city_name": "Sao Raimundo do Doca Bezerra"
+},
+{
+	"city_code": 642,
+	"city_name": "Sao Roberto"
+},
+{
+	"city_code": 643,
+	"city_name": "Sao Vicente Ferrer"
+},
+{
+	"city_code": 644,
+	"city_name": "Satubinha"
+},
+{
+	"city_code": 645,
+	"city_name": "Senador Alexandre Costa"
+},
+{
+	"city_code": 646,
+	"city_name": "Senador La Rocque"
+},
+{
+	"city_code": 647,
+	"city_name": "Serrano do Maranhao"
+},
+{
+	"city_code": 648,
+	"city_name": "Sitio Novo"
+},
+{
+	"city_code": 649,
+	"city_name": "Sucupira do Norte"
+},
+{
+	"city_code": 650,
+	"city_name": "Sucupira do Riachao"
+},
+{
+	"city_code": 651,
+	"city_name": "Tasso Fragoso"
+},
+{
+	"city_code": 652,
+	"city_name": "Timbiras"
+},
+{
+	"city_code": 653,
+	"city_name": "Timon"
+},
+{
+	"city_code": 654,
+	"city_name": "Trizidela do Vale"
+},
+{
+	"city_code": 655,
+	"city_name": "Tufilandia"
+},
+{
+	"city_code": 656,
+	"city_name": "Tuntum"
+},
+{
+	"city_code": 657,
+	"city_name": "Turiacu"
+},
+{
+	"city_code": 658,
+	"city_name": "Turilandia"
+},
+{
+	"city_code": 659,
+	"city_name": "Tutoia"
+},
+{
+	"city_code": 660,
+	"city_name": "Urbano Santos"
+},
+{
+	"city_code": 661,
+	"city_name": "Vargem Grande"
+},
+{
+	"city_code": 662,
+	"city_name": "Viana"
+},
+{
+	"city_code": 663,
+	"city_name": "Vila Nova dos Martirios"
+},
+{
+	"city_code": 664,
+	"city_name": "Vitoria do Mearim"
+},
+{
+	"city_code": 665,
+	"city_name": "Vitorino Freire"
+},
+{
+	"city_code": 666,
+	"city_name": "Ze Doca"
+}]

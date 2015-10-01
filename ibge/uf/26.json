@@ -1,0 +1,740 @@
+[{
+	"city_code": 1465,
+	"city_name": "Abreu e Lima"
+},
+{
+	"city_code": 1466,
+	"city_name": "Afogados da Ingazeira"
+},
+{
+	"city_code": 1467,
+	"city_name": "Afranio"
+},
+{
+	"city_code": 1468,
+	"city_name": "Agrestina"
+},
+{
+	"city_code": 1469,
+	"city_name": "Agua Preta"
+},
+{
+	"city_code": 1470,
+	"city_name": "Aguas Belas"
+},
+{
+	"city_code": 1471,
+	"city_name": "Alagoinha"
+},
+{
+	"city_code": 1472,
+	"city_name": "Alianca"
+},
+{
+	"city_code": 1473,
+	"city_name": "Altinho"
+},
+{
+	"city_code": 1474,
+	"city_name": "Amaraji"
+},
+{
+	"city_code": 1475,
+	"city_name": "Angelim"
+},
+{
+	"city_code": 1476,
+	"city_name": "Aracoiaba"
+},
+{
+	"city_code": 1477,
+	"city_name": "Araripina"
+},
+{
+	"city_code": 1478,
+	"city_name": "Arcoverde"
+},
+{
+	"city_code": 1479,
+	"city_name": "Barra de Guabiraba"
+},
+{
+	"city_code": 1480,
+	"city_name": "Barreiros"
+},
+{
+	"city_code": 1481,
+	"city_name": "Belem de Maria"
+},
+{
+	"city_code": 1482,
+	"city_name": "Belem do Sao Francisco"
+},
+{
+	"city_code": 1483,
+	"city_name": "Belo Jardim"
+},
+{
+	"city_code": 1484,
+	"city_name": "Betania"
+},
+{
+	"city_code": 1485,
+	"city_name": "Bezerros"
+},
+{
+	"city_code": 1486,
+	"city_name": "Bodoco"
+},
+{
+	"city_code": 1487,
+	"city_name": "Bom Conselho"
+},
+{
+	"city_code": 1488,
+	"city_name": "Bom Jardim"
+},
+{
+	"city_code": 1489,
+	"city_name": "Bonito"
+},
+{
+	"city_code": 1490,
+	"city_name": "Brejao"
+},
+{
+	"city_code": 1491,
+	"city_name": "Brejinho"
+},
+{
+	"city_code": 1492,
+	"city_name": "Brejo da Madre de Deus"
+},
+{
+	"city_code": 1493,
+	"city_name": "Buenos Aires"
+},
+{
+	"city_code": 1494,
+	"city_name": "Buique"
+},
+{
+	"city_code": 1495,
+	"city_name": "Cabo de Santo Agostinho"
+},
+{
+	"city_code": 1496,
+	"city_name": "Cabrobo"
+},
+{
+	"city_code": 1497,
+	"city_name": "Cachoeirinha"
+},
+{
+	"city_code": 1498,
+	"city_name": "Caetes"
+},
+{
+	"city_code": 1499,
+	"city_name": "Calcado"
+},
+{
+	"city_code": 1500,
+	"city_name": "Calumbi"
+},
+{
+	"city_code": 1501,
+	"city_name": "Camaragibe"
+},
+{
+	"city_code": 1502,
+	"city_name": "Camocim de Sao Felix"
+},
+{
+	"city_code": 1503,
+	"city_name": "Camutanga"
+},
+{
+	"city_code": 1504,
+	"city_name": "Canhotinho"
+},
+{
+	"city_code": 1505,
+	"city_name": "Capoeiras"
+},
+{
+	"city_code": 1506,
+	"city_name": "Carnaiba"
+},
+{
+	"city_code": 1507,
+	"city_name": "Carnaubeira da Penha"
+},
+{
+	"city_code": 1508,
+	"city_name": "Carpina"
+},
+{
+	"city_code": 1509,
+	"city_name": "Caruaru"
+},
+{
+	"city_code": 1510,
+	"city_name": "Casinhas"
+},
+{
+	"city_code": 1511,
+	"city_name": "Catende"
+},
+{
+	"city_code": 1512,
+	"city_name": "Cedro"
+},
+{
+	"city_code": 1513,
+	"city_name": "Cha de Alegria"
+},
+{
+	"city_code": 1514,
+	"city_name": "Cha Grande"
+},
+{
+	"city_code": 1515,
+	"city_name": "Condado"
+},
+{
+	"city_code": 1516,
+	"city_name": "Correntes"
+},
+{
+	"city_code": 1517,
+	"city_name": "Cortes"
+},
+{
+	"city_code": 1518,
+	"city_name": "Cumaru"
+},
+{
+	"city_code": 1519,
+	"city_name": "Cupira"
+},
+{
+	"city_code": 1520,
+	"city_name": "Custodia"
+},
+{
+	"city_code": 1521,
+	"city_name": "Dormentes"
+},
+{
+	"city_code": 1522,
+	"city_name": "Escada"
+},
+{
+	"city_code": 1523,
+	"city_name": "Exu"
+},
+{
+	"city_code": 1524,
+	"city_name": "Feira Nova"
+},
+{
+	"city_code": 1525,
+	"city_name": "Fernando de Noronha"
+},
+{
+	"city_code": 1526,
+	"city_name": "Ferreiros"
+},
+{
+	"city_code": 1527,
+	"city_name": "Flores"
+},
+{
+	"city_code": 1528,
+	"city_name": "Floresta"
+},
+{
+	"city_code": 1529,
+	"city_name": "Frei Miguelinho"
+},
+{
+	"city_code": 1530,
+	"city_name": "Gameleira"
+},
+{
+	"city_code": 1531,
+	"city_name": "Garanhuns"
+},
+{
+	"city_code": 1532,
+	"city_name": "Gloria do Goita"
+},
+{
+	"city_code": 1533,
+	"city_name": "Goiana"
+},
+{
+	"city_code": 1534,
+	"city_name": "Granito"
+},
+{
+	"city_code": 1535,
+	"city_name": "Gravata"
+},
+{
+	"city_code": 1536,
+	"city_name": "Iati"
+},
+{
+	"city_code": 1537,
+	"city_name": "Ibimirim"
+},
+{
+	"city_code": 1538,
+	"city_name": "Ibirajuba"
+},
+{
+	"city_code": 1539,
+	"city_name": "Igarassu"
+},
+{
+	"city_code": 1540,
+	"city_name": "Iguaraci"
+},
+{
+	"city_code": 1541,
+	"city_name": "Ilha de Itamaraca"
+},
+{
+	"city_code": 1542,
+	"city_name": "Inaja"
+},
+{
+	"city_code": 1543,
+	"city_name": "Ingazeira"
+},
+{
+	"city_code": 1544,
+	"city_name": "Ipojuca"
+},
+{
+	"city_code": 1545,
+	"city_name": "Ipubi"
+},
+{
+	"city_code": 1546,
+	"city_name": "Itacuruba"
+},
+{
+	"city_code": 1547,
+	"city_name": "Itaiba"
+},
+{
+	"city_code": 1548,
+	"city_name": "Itambe"
+},
+{
+	"city_code": 1549,
+	"city_name": "Itapetim"
+},
+{
+	"city_code": 1550,
+	"city_name": "Itapissuma"
+},
+{
+	"city_code": 1551,
+	"city_name": "Itaquitinga"
+},
+{
+	"city_code": 1552,
+	"city_name": "Jaboatao dos Guararapes"
+},
+{
+	"city_code": 1553,
+	"city_name": "Jaqueira"
+},
+{
+	"city_code": 1554,
+	"city_name": "Jatauba"
+},
+{
+	"city_code": 1555,
+	"city_name": "Jatoba"
+},
+{
+	"city_code": 1556,
+	"city_name": "Joao Alfredo"
+},
+{
+	"city_code": 1557,
+	"city_name": "Joaquim Nabuco"
+},
+{
+	"city_code": 1558,
+	"city_name": "Jucati"
+},
+{
+	"city_code": 1559,
+	"city_name": "Jupi"
+},
+{
+	"city_code": 1560,
+	"city_name": "Jurema"
+},
+{
+	"city_code": 1562,
+	"city_name": "Lagoa de Itaenga"
+},
+{
+	"city_code": 1561,
+	"city_name": "Lagoa do Carro"
+},
+{
+	"city_code": 1563,
+	"city_name": "Lagoa do Ouro"
+},
+{
+	"city_code": 1564,
+	"city_name": "Lagoa dos Gatos"
+},
+{
+	"city_code": 1565,
+	"city_name": "Lagoa Grande"
+},
+{
+	"city_code": 1566,
+	"city_name": "Lajedo"
+},
+{
+	"city_code": 1567,
+	"city_name": "Limoeiro"
+},
+{
+	"city_code": 1568,
+	"city_name": "Macaparana"
+},
+{
+	"city_code": 1569,
+	"city_name": "Machados"
+},
+{
+	"city_code": 1570,
+	"city_name": "Manari"
+},
+{
+	"city_code": 1571,
+	"city_name": "Maraial"
+},
+{
+	"city_code": 1572,
+	"city_name": "Mirandiba"
+},
+{
+	"city_code": 1573,
+	"city_name": "Moreilandia"
+},
+{
+	"city_code": 1574,
+	"city_name": "Moreno"
+},
+{
+	"city_code": 1575,
+	"city_name": "Nazare da Mata"
+},
+{
+	"city_code": 1576,
+	"city_name": "Olinda"
+},
+{
+	"city_code": 1577,
+	"city_name": "Orobo"
+},
+{
+	"city_code": 1578,
+	"city_name": "Oroco"
+},
+{
+	"city_code": 1579,
+	"city_name": "Ouricuri"
+},
+{
+	"city_code": 1580,
+	"city_name": "Palmares"
+},
+{
+	"city_code": 1581,
+	"city_name": "Palmeirina"
+},
+{
+	"city_code": 1582,
+	"city_name": "Panelas"
+},
+{
+	"city_code": 1583,
+	"city_name": "Paranatama"
+},
+{
+	"city_code": 1584,
+	"city_name": "Parnamirim"
+},
+{
+	"city_code": 1585,
+	"city_name": "Passira"
+},
+{
+	"city_code": 1586,
+	"city_name": "Paudalho"
+},
+{
+	"city_code": 1587,
+	"city_name": "Paulista"
+},
+{
+	"city_code": 1588,
+	"city_name": "Pedra"
+},
+{
+	"city_code": 1589,
+	"city_name": "Pesqueira"
+},
+{
+	"city_code": 1590,
+	"city_name": "Petrolandia"
+},
+{
+	"city_code": 1591,
+	"city_name": "Petrolina"
+},
+{
+	"city_code": 1592,
+	"city_name": "Pocao"
+},
+{
+	"city_code": 1593,
+	"city_name": "Pombos"
+},
+{
+	"city_code": 1594,
+	"city_name": "Primavera"
+},
+{
+	"city_code": 1595,
+	"city_name": "Quipapa"
+},
+{
+	"city_code": 1596,
+	"city_name": "Quixaba"
+},
+{
+	"city_code": 1597,
+	"city_name": "Recife"
+},
+{
+	"city_code": 1598,
+	"city_name": "Riacho das Almas"
+},
+{
+	"city_code": 1599,
+	"city_name": "Ribeirao"
+},
+{
+	"city_code": 1600,
+	"city_name": "Rio Formoso"
+},
+{
+	"city_code": 1601,
+	"city_name": "Saire"
+},
+{
+	"city_code": 1602,
+	"city_name": "Salgadinho"
+},
+{
+	"city_code": 1603,
+	"city_name": "Salgueiro"
+},
+{
+	"city_code": 1604,
+	"city_name": "Saloa"
+},
+{
+	"city_code": 1605,
+	"city_name": "Sanharo"
+},
+{
+	"city_code": 1606,
+	"city_name": "Santa Cruz"
+},
+{
+	"city_code": 1607,
+	"city_name": "Santa Cruz da Baixa Verde"
+},
+{
+	"city_code": 1608,
+	"city_name": "Santa Cruz do Capibaribe"
+},
+{
+	"city_code": 1609,
+	"city_name": "Santa Filomena"
+},
+{
+	"city_code": 1610,
+	"city_name": "Santa Maria da Boa Vista"
+},
+{
+	"city_code": 1611,
+	"city_name": "Santa Maria do Cambuca"
+},
+{
+	"city_code": 1612,
+	"city_name": "Santa Terezinha"
+},
+{
+	"city_code": 1613,
+	"city_name": "Sao Benedito do Sul"
+},
+{
+	"city_code": 1614,
+	"city_name": "Sao Bento do Una"
+},
+{
+	"city_code": 1615,
+	"city_name": "Sao Caitano"
+},
+{
+	"city_code": 1616,
+	"city_name": "Sao Joao"
+},
+{
+	"city_code": 1617,
+	"city_name": "Sao Joaquim do Monte"
+},
+{
+	"city_code": 1618,
+	"city_name": "Sao Jose da Coroa Grande"
+},
+{
+	"city_code": 1619,
+	"city_name": "Sao Jose do Belmonte"
+},
+{
+	"city_code": 1620,
+	"city_name": "Sao Jose do Egito"
+},
+{
+	"city_code": 1621,
+	"city_name": "Sao Lourenco da Mata"
+},
+{
+	"city_code": 1622,
+	"city_name": "Sao Vicente Ferrer"
+},
+{
+	"city_code": 1623,
+	"city_name": "Serra Talhada"
+},
+{
+	"city_code": 1624,
+	"city_name": "Serrita"
+},
+{
+	"city_code": 1625,
+	"city_name": "Sertania"
+},
+{
+	"city_code": 1626,
+	"city_name": "Sirinhaem"
+},
+{
+	"city_code": 1627,
+	"city_name": "Solidao"
+},
+{
+	"city_code": 1628,
+	"city_name": "Surubim"
+},
+{
+	"city_code": 1629,
+	"city_name": "Tabira"
+},
+{
+	"city_code": 1630,
+	"city_name": "Tacaimbo"
+},
+{
+	"city_code": 1631,
+	"city_name": "Tacaratu"
+},
+{
+	"city_code": 1632,
+	"city_name": "Tamandare"
+},
+{
+	"city_code": 1633,
+	"city_name": "Taquaritinga do Norte"
+},
+{
+	"city_code": 1634,
+	"city_name": "Terezinha"
+},
+{
+	"city_code": 1635,
+	"city_name": "Terra Nova"
+},
+{
+	"city_code": 1636,
+	"city_name": "Timbauba"
+},
+{
+	"city_code": 1637,
+	"city_name": "Toritama"
+},
+{
+	"city_code": 1638,
+	"city_name": "Tracunhaem"
+},
+{
+	"city_code": 1639,
+	"city_name": "Trindade"
+},
+{
+	"city_code": 1640,
+	"city_name": "Triunfo"
+},
+{
+	"city_code": 1641,
+	"city_name": "Tupanatinga"
+},
+{
+	"city_code": 1642,
+	"city_name": "Tuparetama"
+},
+{
+	"city_code": 1643,
+	"city_name": "Venturosa"
+},
+{
+	"city_code": 1644,
+	"city_name": "Verdejante"
+},
+{
+	"city_code": 1645,
+	"city_name": "Vertente do Lerio"
+},
+{
+	"city_code": 1646,
+	"city_name": "Vertentes"
+},
+{
+	"city_code": 1647,
+	"city_name": "Vicencia"
+},
+{
+	"city_code": 1648,
+	"city_name": "Vitoria de Santo Antao"
+},
+{
+	"city_code": 1649,
+	"city_name": "Xexeu"
+}]

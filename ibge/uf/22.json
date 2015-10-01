@@ -1,0 +1,896 @@
+[{
+	"city_code": 667,
+	"city_name": "Acaua"
+},
+{
+	"city_code": 668,
+	"city_name": "Agricolandia"
+},
+{
+	"city_code": 669,
+	"city_name": "Agua Branca"
+},
+{
+	"city_code": 670,
+	"city_name": "Alagoinha do Piaui"
+},
+{
+	"city_code": 671,
+	"city_name": "Alegrete do Piaui"
+},
+{
+	"city_code": 672,
+	"city_name": "Alto Longa"
+},
+{
+	"city_code": 673,
+	"city_name": "Altos"
+},
+{
+	"city_code": 674,
+	"city_name": "Alvorada do Gurgueia"
+},
+{
+	"city_code": 675,
+	"city_name": "Amarante"
+},
+{
+	"city_code": 676,
+	"city_name": "Angical do Piaui"
+},
+{
+	"city_code": 677,
+	"city_name": "Anisio de Abreu"
+},
+{
+	"city_code": 678,
+	"city_name": "Antonio Almeida"
+},
+{
+	"city_code": 679,
+	"city_name": "Aroazes"
+},
+{
+	"city_code": 680,
+	"city_name": "Aroeiras do Itaim"
+},
+{
+	"city_code": 681,
+	"city_name": "Arraial"
+},
+{
+	"city_code": 682,
+	"city_name": "Assuncao do Piaui"
+},
+{
+	"city_code": 683,
+	"city_name": "Avelino Lopes"
+},
+{
+	"city_code": 684,
+	"city_name": "Baixa Grande do Ribeiro"
+},
+{
+	"city_code": 685,
+	"city_name": "Barra D'Alc?ara"
+},
+{
+	"city_code": 686,
+	"city_name": "Barras"
+},
+{
+	"city_code": 687,
+	"city_name": "Barreiras do Piaui"
+},
+{
+	"city_code": 688,
+	"city_name": "Barro Duro"
+},
+{
+	"city_code": 689,
+	"city_name": "Batalha"
+},
+{
+	"city_code": 690,
+	"city_name": "Bela Vista do Piaui"
+},
+{
+	"city_code": 691,
+	"city_name": "Belem do Piaui"
+},
+{
+	"city_code": 692,
+	"city_name": "Beneditinos"
+},
+{
+	"city_code": 693,
+	"city_name": "Bertolinia"
+},
+{
+	"city_code": 694,
+	"city_name": "Betania do Piaui"
+},
+{
+	"city_code": 695,
+	"city_name": "Boa Hora"
+},
+{
+	"city_code": 696,
+	"city_name": "Bocaina"
+},
+{
+	"city_code": 697,
+	"city_name": "Bom Jesus"
+},
+{
+	"city_code": 698,
+	"city_name": "Bom Principio do Piaui"
+},
+{
+	"city_code": 699,
+	"city_name": "Bonfim do Piaui"
+},
+{
+	"city_code": 700,
+	"city_name": "Boqueirao do Piaui"
+},
+{
+	"city_code": 701,
+	"city_name": "Brasileira"
+},
+{
+	"city_code": 702,
+	"city_name": "Brejo do Piaui"
+},
+{
+	"city_code": 703,
+	"city_name": "Buriti dos Lopes"
+},
+{
+	"city_code": 704,
+	"city_name": "Buriti dos Montes"
+},
+{
+	"city_code": 705,
+	"city_name": "Cabeceiras do Piaui"
+},
+{
+	"city_code": 706,
+	"city_name": "Cajazeiras do Piaui"
+},
+{
+	"city_code": 707,
+	"city_name": "Cajueiro da Praia"
+},
+{
+	"city_code": 708,
+	"city_name": "Caldeirao Grande do Piaui"
+},
+{
+	"city_code": 709,
+	"city_name": "Campinas do Piaui"
+},
+{
+	"city_code": 710,
+	"city_name": "Campo Alegre do Fidalgo"
+},
+{
+	"city_code": 711,
+	"city_name": "Campo Grande do Piaui"
+},
+{
+	"city_code": 712,
+	"city_name": "Campo Largo do Piaui"
+},
+{
+	"city_code": 713,
+	"city_name": "Campo Maior"
+},
+{
+	"city_code": 714,
+	"city_name": "Canavieira"
+},
+{
+	"city_code": 715,
+	"city_name": "Canto do Buriti"
+},
+{
+	"city_code": 716,
+	"city_name": "Capitao de Campos"
+},
+{
+	"city_code": 717,
+	"city_name": "Capitao Gervasio Oliveira"
+},
+{
+	"city_code": 718,
+	"city_name": "Caracol"
+},
+{
+	"city_code": 719,
+	"city_name": "Caraubas do Piaui"
+},
+{
+	"city_code": 720,
+	"city_name": "Caridade do Piaui"
+},
+{
+	"city_code": 721,
+	"city_name": "Castelo do Piaui"
+},
+{
+	"city_code": 722,
+	"city_name": "Caxingo"
+},
+{
+	"city_code": 723,
+	"city_name": "Cocal"
+},
+{
+	"city_code": 724,
+	"city_name": "Cocal de Telha"
+},
+{
+	"city_code": 725,
+	"city_name": "Cocal dos Alves"
+},
+{
+	"city_code": 726,
+	"city_name": "Coivaras"
+},
+{
+	"city_code": 727,
+	"city_name": "Colonia do Gurgueia"
+},
+{
+	"city_code": 728,
+	"city_name": "Colonia do Piaui"
+},
+{
+	"city_code": 729,
+	"city_name": "Conceicao do Caninde"
+},
+{
+	"city_code": 730,
+	"city_name": "Coronel Jose Dias"
+},
+{
+	"city_code": 731,
+	"city_name": "Corrente"
+},
+{
+	"city_code": 732,
+	"city_name": "Cristalandia do Piaui"
+},
+{
+	"city_code": 733,
+	"city_name": "Cristino Castro"
+},
+{
+	"city_code": 734,
+	"city_name": "Curimata"
+},
+{
+	"city_code": 735,
+	"city_name": "Currais"
+},
+{
+	"city_code": 736,
+	"city_name": "Curral Novo do Piaui"
+},
+{
+	"city_code": 737,
+	"city_name": "Curralinhos"
+},
+{
+	"city_code": 738,
+	"city_name": "Demerval Lobao"
+},
+{
+	"city_code": 739,
+	"city_name": "Dirceu Arcoverde"
+},
+{
+	"city_code": 740,
+	"city_name": "Dom Expedito Lopes"
+},
+{
+	"city_code": 741,
+	"city_name": "Dom Inocencio"
+},
+{
+	"city_code": 742,
+	"city_name": "Domingos Mourao"
+},
+{
+	"city_code": 743,
+	"city_name": "Elesbao Veloso"
+},
+{
+	"city_code": 744,
+	"city_name": "Eliseu Martins"
+},
+{
+	"city_code": 745,
+	"city_name": "Esperantina"
+},
+{
+	"city_code": 746,
+	"city_name": "Fartura do Piaui"
+},
+{
+	"city_code": 747,
+	"city_name": "Flores do Piaui"
+},
+{
+	"city_code": 748,
+	"city_name": "Floresta do Piaui"
+},
+{
+	"city_code": 749,
+	"city_name": "Floriano"
+},
+{
+	"city_code": 750,
+	"city_name": "Francinopolis"
+},
+{
+	"city_code": 751,
+	"city_name": "Francisco Ayres"
+},
+{
+	"city_code": 752,
+	"city_name": "Francisco Macedo"
+},
+{
+	"city_code": 753,
+	"city_name": "Francisco Santos"
+},
+{
+	"city_code": 754,
+	"city_name": "Fronteiras"
+},
+{
+	"city_code": 755,
+	"city_name": "Geminiano"
+},
+{
+	"city_code": 756,
+	"city_name": "Gilbues"
+},
+{
+	"city_code": 757,
+	"city_name": "Guadalupe"
+},
+{
+	"city_code": 758,
+	"city_name": "Guaribas"
+},
+{
+	"city_code": 759,
+	"city_name": "Hugo Napoleao"
+},
+{
+	"city_code": 760,
+	"city_name": "Ilha Grande"
+},
+{
+	"city_code": 761,
+	"city_name": "Inhuma"
+},
+{
+	"city_code": 762,
+	"city_name": "Ipiranga do Piaui"
+},
+{
+	"city_code": 763,
+	"city_name": "Isaias Coelho"
+},
+{
+	"city_code": 764,
+	"city_name": "Itainopolis"
+},
+{
+	"city_code": 765,
+	"city_name": "Itaueira"
+},
+{
+	"city_code": 766,
+	"city_name": "Jacobina do Piaui"
+},
+{
+	"city_code": 767,
+	"city_name": "Jaicos"
+},
+{
+	"city_code": 768,
+	"city_name": "Jardim do Mulato"
+},
+{
+	"city_code": 769,
+	"city_name": "Jatoba do Piaui"
+},
+{
+	"city_code": 770,
+	"city_name": "Jerumenha"
+},
+{
+	"city_code": 771,
+	"city_name": "Joao Costa"
+},
+{
+	"city_code": 772,
+	"city_name": "Joaquim Pires"
+},
+{
+	"city_code": 773,
+	"city_name": "Joca Marques"
+},
+{
+	"city_code": 774,
+	"city_name": "Jose de Freitas"
+},
+{
+	"city_code": 775,
+	"city_name": "Juazeiro do Piaui"
+},
+{
+	"city_code": 776,
+	"city_name": "Julio Borges"
+},
+{
+	"city_code": 777,
+	"city_name": "Jurema"
+},
+{
+	"city_code": 778,
+	"city_name": "Lagoa Alegre"
+},
+{
+	"city_code": 779,
+	"city_name": "Lagoa de Sao Francisco"
+},
+{
+	"city_code": 780,
+	"city_name": "Lagoa do Barro do Piaui"
+},
+{
+	"city_code": 781,
+	"city_name": "Lagoa do Piaui"
+},
+{
+	"city_code": 782,
+	"city_name": "Lagoa do Sitio"
+},
+{
+	"city_code": 783,
+	"city_name": "Lagoinha do Piaui"
+},
+{
+	"city_code": 784,
+	"city_name": "Landri Sales"
+},
+{
+	"city_code": 785,
+	"city_name": "Luis Correia"
+},
+{
+	"city_code": 786,
+	"city_name": "Luzilandia"
+},
+{
+	"city_code": 787,
+	"city_name": "Madeiro"
+},
+{
+	"city_code": 788,
+	"city_name": "Manoel Emidio"
+},
+{
+	"city_code": 789,
+	"city_name": "Marcolandia"
+},
+{
+	"city_code": 790,
+	"city_name": "Marcos Parente"
+},
+{
+	"city_code": 791,
+	"city_name": "Massape do Piaui"
+},
+{
+	"city_code": 792,
+	"city_name": "Matias Olimpio"
+},
+{
+	"city_code": 793,
+	"city_name": "Miguel Alves"
+},
+{
+	"city_code": 794,
+	"city_name": "Miguel Leao"
+},
+{
+	"city_code": 795,
+	"city_name": "Milton Brandao"
+},
+{
+	"city_code": 796,
+	"city_name": "Monsenhor Gil"
+},
+{
+	"city_code": 797,
+	"city_name": "Monsenhor Hipolito"
+},
+{
+	"city_code": 798,
+	"city_name": "Monte Alegre do Piaui"
+},
+{
+	"city_code": 799,
+	"city_name": "Morro Cabeca no Tempo"
+},
+{
+	"city_code": 800,
+	"city_name": "Morro do Chapeu do Piaui"
+},
+{
+	"city_code": 801,
+	"city_name": "Murici dos Portelas"
+},
+{
+	"city_code": 802,
+	"city_name": "Nazare do Piaui"
+},
+{
+	"city_code": 803,
+	"city_name": "Nazaria "
+},
+{
+	"city_code": 804,
+	"city_name": "Nossa Senhora de Nazare"
+},
+{
+	"city_code": 805,
+	"city_name": "Nossa Senhora dos Remedios"
+},
+{
+	"city_code": 806,
+	"city_name": "Nova Santa Rita"
+},
+{
+	"city_code": 807,
+	"city_name": "Novo Oriente do Piaui"
+},
+{
+	"city_code": 808,
+	"city_name": "Novo Santo Antonio"
+},
+{
+	"city_code": 809,
+	"city_name": "Oeiras"
+},
+{
+	"city_code": 810,
+	"city_name": "Olho DAgua do Piaui"
+},
+{
+	"city_code": 811,
+	"city_name": "Padre Marcos"
+},
+{
+	"city_code": 812,
+	"city_name": "Paes Landim"
+},
+{
+	"city_code": 813,
+	"city_name": "Pajeu do Piaui"
+},
+{
+	"city_code": 814,
+	"city_name": "Palmeira do Piaui"
+},
+{
+	"city_code": 815,
+	"city_name": "Palmeirais"
+},
+{
+	"city_code": 816,
+	"city_name": "Paqueta"
+},
+{
+	"city_code": 817,
+	"city_name": "Parnagua"
+},
+{
+	"city_code": 818,
+	"city_name": "Parnaiba"
+},
+{
+	"city_code": 819,
+	"city_name": "Passagem Franca do Piaui"
+},
+{
+	"city_code": 820,
+	"city_name": "Patos do Piaui"
+},
+{
+	"city_code": 821,
+	"city_name": "Pau DArco do Piaui"
+},
+{
+	"city_code": 822,
+	"city_name": "Paulistana"
+},
+{
+	"city_code": 823,
+	"city_name": "Pavussu"
+},
+{
+	"city_code": 824,
+	"city_name": "Pedro II"
+},
+{
+	"city_code": 825,
+	"city_name": "Pedro Laurentino"
+},
+{
+	"city_code": 826,
+	"city_name": "Picos"
+},
+{
+	"city_code": 827,
+	"city_name": "Pimenteiras"
+},
+{
+	"city_code": 828,
+	"city_name": "Pio IX"
+},
+{
+	"city_code": 829,
+	"city_name": "Piracuruca"
+},
+{
+	"city_code": 830,
+	"city_name": "Piripiri"
+},
+{
+	"city_code": 831,
+	"city_name": "Porto"
+},
+{
+	"city_code": 832,
+	"city_name": "Porto Alegre do Piaui"
+},
+{
+	"city_code": 833,
+	"city_name": "Prata do Piaui"
+},
+{
+	"city_code": 834,
+	"city_name": "Queimada Nova"
+},
+{
+	"city_code": 835,
+	"city_name": "Redencao do Gurgueia"
+},
+{
+	"city_code": 836,
+	"city_name": "Regeneracao"
+},
+{
+	"city_code": 837,
+	"city_name": "Riacho Frio"
+},
+{
+	"city_code": 838,
+	"city_name": "Ribeira do Piaui"
+},
+{
+	"city_code": 839,
+	"city_name": "Ribeiro Goncalves"
+},
+{
+	"city_code": 840,
+	"city_name": "Rio Grande do Piaui"
+},
+{
+	"city_code": 841,
+	"city_name": "Santa Cruz do Piaui"
+},
+{
+	"city_code": 842,
+	"city_name": "Santa Cruz dos Milagres"
+},
+{
+	"city_code": 843,
+	"city_name": "Santa Filomena"
+},
+{
+	"city_code": 844,
+	"city_name": "Santa Luz"
+},
+{
+	"city_code": 845,
+	"city_name": "Santa Rosa do Piaui"
+},
+{
+	"city_code": 846,
+	"city_name": "Santana do Piaui"
+},
+{
+	"city_code": 847,
+	"city_name": "Santo Antonio de Lisboa"
+},
+{
+	"city_code": 848,
+	"city_name": "Santo Antonio dos Milagres"
+},
+{
+	"city_code": 849,
+	"city_name": "Santo Inacio do Piaui"
+},
+{
+	"city_code": 850,
+	"city_name": "Sao Braz do Piaui"
+},
+{
+	"city_code": 851,
+	"city_name": "Sao Felix do Piaui"
+},
+{
+	"city_code": 852,
+	"city_name": "Sao Francisco de Assis do Piaui"
+},
+{
+	"city_code": 853,
+	"city_name": "Sao Francisco do Piaui"
+},
+{
+	"city_code": 854,
+	"city_name": "Sao Goncalo do Gurgueia"
+},
+{
+	"city_code": 855,
+	"city_name": "Sao Goncalo do Piaui"
+},
+{
+	"city_code": 856,
+	"city_name": "Sao Joao da Canabrava"
+},
+{
+	"city_code": 857,
+	"city_name": "Sao Joao da Fronteira"
+},
+{
+	"city_code": 858,
+	"city_name": "Sao Joao da Serra"
+},
+{
+	"city_code": 859,
+	"city_name": "Sao Joao da Varjota"
+},
+{
+	"city_code": 860,
+	"city_name": "Sao Joao do Arraial"
+},
+{
+	"city_code": 861,
+	"city_name": "Sao Joao do Piaui"
+},
+{
+	"city_code": 862,
+	"city_name": "Sao Jose do Divino"
+},
+{
+	"city_code": 863,
+	"city_name": "Sao Jose do Peixe"
+},
+{
+	"city_code": 864,
+	"city_name": "Sao Jose do Piaui"
+},
+{
+	"city_code": 865,
+	"city_name": "Sao Juliao"
+},
+{
+	"city_code": 866,
+	"city_name": "Sao Lourenco do Piaui"
+},
+{
+	"city_code": 867,
+	"city_name": "Sao Luis do Piaui"
+},
+{
+	"city_code": 868,
+	"city_name": "Sao Miguel da Baixa Grande"
+},
+{
+	"city_code": 869,
+	"city_name": "Sao Miguel do Fidalgo"
+},
+{
+	"city_code": 870,
+	"city_name": "Sao Miguel do Tapuio"
+},
+{
+	"city_code": 871,
+	"city_name": "Sao Pedro do Piaui"
+},
+{
+	"city_code": 872,
+	"city_name": "Sao Raimundo Nonato"
+},
+{
+	"city_code": 873,
+	"city_name": "Sebastiao Barros"
+},
+{
+	"city_code": 874,
+	"city_name": "Sebastiao Leal"
+},
+{
+	"city_code": 875,
+	"city_name": "Sigefredo Pacheco"
+},
+{
+	"city_code": 876,
+	"city_name": "Simoes"
+},
+{
+	"city_code": 877,
+	"city_name": "Simplicio Mendes"
+},
+{
+	"city_code": 878,
+	"city_name": "Socorro do Piaui"
+},
+{
+	"city_code": 879,
+	"city_name": "Sussuapara"
+},
+{
+	"city_code": 880,
+	"city_name": "Tamboril do Piaui"
+},
+{
+	"city_code": 881,
+	"city_name": "Tanque do Piaui"
+},
+{
+	"city_code": 882,
+	"city_name": "Teresina"
+},
+{
+	"city_code": 883,
+	"city_name": "Uniao"
+},
+{
+	"city_code": 884,
+	"city_name": "Urucui"
+},
+{
+	"city_code": 885,
+	"city_name": "Valenca do Piaui"
+},
+{
+	"city_code": 886,
+	"city_name": "Varzea Branca"
+},
+{
+	"city_code": 887,
+	"city_name": "Varzea Grande"
+},
+{
+	"city_code": 888,
+	"city_name": "Vera Mendes"
+},
+{
+	"city_code": 889,
+	"city_name": "Vila Nova do Piaui"
+},
+{
+	"city_code": 890,
+	"city_name": "Wall Ferraz"
+}]

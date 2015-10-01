@@ -1,0 +1,736 @@
+[{
+	"city_code": 891,
+	"city_name": "Abaiara"
+},
+{
+	"city_code": 892,
+	"city_name": "Acarape"
+},
+{
+	"city_code": 893,
+	"city_name": "Acarau"
+},
+{
+	"city_code": 894,
+	"city_name": "Acopiara"
+},
+{
+	"city_code": 895,
+	"city_name": "Aiuaba"
+},
+{
+	"city_code": 896,
+	"city_name": "Alcantaras"
+},
+{
+	"city_code": 897,
+	"city_name": "Altaneira"
+},
+{
+	"city_code": 898,
+	"city_name": "Alto Santo"
+},
+{
+	"city_code": 899,
+	"city_name": "Amontada"
+},
+{
+	"city_code": 900,
+	"city_name": "Antonina do Norte"
+},
+{
+	"city_code": 901,
+	"city_name": "Apuiares"
+},
+{
+	"city_code": 902,
+	"city_name": "Aquiraz"
+},
+{
+	"city_code": 903,
+	"city_name": "Aracati"
+},
+{
+	"city_code": 904,
+	"city_name": "Aracoiaba"
+},
+{
+	"city_code": 905,
+	"city_name": "Ararenda"
+},
+{
+	"city_code": 906,
+	"city_name": "Araripe"
+},
+{
+	"city_code": 907,
+	"city_name": "Aratuba"
+},
+{
+	"city_code": 908,
+	"city_name": "Arneiroz"
+},
+{
+	"city_code": 909,
+	"city_name": "Assare"
+},
+{
+	"city_code": 910,
+	"city_name": "Aurora"
+},
+{
+	"city_code": 911,
+	"city_name": "Baixio"
+},
+{
+	"city_code": 912,
+	"city_name": "Banabuiu"
+},
+{
+	"city_code": 913,
+	"city_name": "Barbalha"
+},
+{
+	"city_code": 914,
+	"city_name": "Barreira"
+},
+{
+	"city_code": 915,
+	"city_name": "Barro"
+},
+{
+	"city_code": 916,
+	"city_name": "Barroquinha"
+},
+{
+	"city_code": 917,
+	"city_name": "Baturite"
+},
+{
+	"city_code": 918,
+	"city_name": "Beberibe"
+},
+{
+	"city_code": 919,
+	"city_name": "Bela Cruz"
+},
+{
+	"city_code": 920,
+	"city_name": "Boa Viagem"
+},
+{
+	"city_code": 921,
+	"city_name": "Brejo Santo"
+},
+{
+	"city_code": 922,
+	"city_name": "Camocim"
+},
+{
+	"city_code": 923,
+	"city_name": "Campos Sales"
+},
+{
+	"city_code": 924,
+	"city_name": "Caninde"
+},
+{
+	"city_code": 925,
+	"city_name": "Capistrano"
+},
+{
+	"city_code": 926,
+	"city_name": "Caridade"
+},
+{
+	"city_code": 927,
+	"city_name": "Carire"
+},
+{
+	"city_code": 928,
+	"city_name": "Caririacu"
+},
+{
+	"city_code": 929,
+	"city_name": "Carius"
+},
+{
+	"city_code": 930,
+	"city_name": "Carnaubal"
+},
+{
+	"city_code": 931,
+	"city_name": "Cascavel"
+},
+{
+	"city_code": 932,
+	"city_name": "Catarina"
+},
+{
+	"city_code": 933,
+	"city_name": "Catunda"
+},
+{
+	"city_code": 934,
+	"city_name": "Caucaia"
+},
+{
+	"city_code": 935,
+	"city_name": "Cedro"
+},
+{
+	"city_code": 936,
+	"city_name": "Chaval"
+},
+{
+	"city_code": 937,
+	"city_name": "Choro"
+},
+{
+	"city_code": 938,
+	"city_name": "Chorozinho"
+},
+{
+	"city_code": 939,
+	"city_name": "Coreau"
+},
+{
+	"city_code": 940,
+	"city_name": "Crateus"
+},
+{
+	"city_code": 941,
+	"city_name": "Crato"
+},
+{
+	"city_code": 942,
+	"city_name": "Croata"
+},
+{
+	"city_code": 943,
+	"city_name": "Cruz"
+},
+{
+	"city_code": 944,
+	"city_name": "Deputado Irapuan Pinheiro"
+},
+{
+	"city_code": 945,
+	"city_name": "Erere"
+},
+{
+	"city_code": 946,
+	"city_name": "Eusebio"
+},
+{
+	"city_code": 947,
+	"city_name": "Farias Brito"
+},
+{
+	"city_code": 948,
+	"city_name": "Forquilha"
+},
+{
+	"city_code": 949,
+	"city_name": "Fortaleza"
+},
+{
+	"city_code": 950,
+	"city_name": "Fortim"
+},
+{
+	"city_code": 951,
+	"city_name": "Frecheirinha"
+},
+{
+	"city_code": 952,
+	"city_name": "General Sampaio"
+},
+{
+	"city_code": 953,
+	"city_name": "Graca"
+},
+{
+	"city_code": 954,
+	"city_name": "Granja"
+},
+{
+	"city_code": 955,
+	"city_name": "Granjeiro"
+},
+{
+	"city_code": 956,
+	"city_name": "Groairas"
+},
+{
+	"city_code": 957,
+	"city_name": "Guaiuba"
+},
+{
+	"city_code": 958,
+	"city_name": "Guaraciaba do Norte"
+},
+{
+	"city_code": 959,
+	"city_name": "Guaramiranga"
+},
+{
+	"city_code": 960,
+	"city_name": "Hidrolandia"
+},
+{
+	"city_code": 961,
+	"city_name": "Horizonte"
+},
+{
+	"city_code": 962,
+	"city_name": "Ibaretama"
+},
+{
+	"city_code": 963,
+	"city_name": "Ibiapina"
+},
+{
+	"city_code": 964,
+	"city_name": "Ibicuitinga"
+},
+{
+	"city_code": 965,
+	"city_name": "Icapui"
+},
+{
+	"city_code": 966,
+	"city_name": "Ico"
+},
+{
+	"city_code": 967,
+	"city_name": "Iguatu"
+},
+{
+	"city_code": 968,
+	"city_name": "Independencia"
+},
+{
+	"city_code": 969,
+	"city_name": "Ipaporanga"
+},
+{
+	"city_code": 970,
+	"city_name": "Ipaumirim"
+},
+{
+	"city_code": 971,
+	"city_name": "Ipu"
+},
+{
+	"city_code": 972,
+	"city_name": "Ipueiras"
+},
+{
+	"city_code": 973,
+	"city_name": "Iracema"
+},
+{
+	"city_code": 974,
+	"city_name": "Iraucuba"
+},
+{
+	"city_code": 975,
+	"city_name": "Itaicaba"
+},
+{
+	"city_code": 976,
+	"city_name": "Itaitinga"
+},
+{
+	"city_code": 977,
+	"city_name": "Itapage"
+},
+{
+	"city_code": 978,
+	"city_name": "Itapipoca"
+},
+{
+	"city_code": 979,
+	"city_name": "Itapiuna"
+},
+{
+	"city_code": 980,
+	"city_name": "Itarema"
+},
+{
+	"city_code": 981,
+	"city_name": "Itatira"
+},
+{
+	"city_code": 982,
+	"city_name": "Jaguaretama"
+},
+{
+	"city_code": 983,
+	"city_name": "Jaguaribara"
+},
+{
+	"city_code": 984,
+	"city_name": "Jaguaribe"
+},
+{
+	"city_code": 985,
+	"city_name": "Jaguaruana"
+},
+{
+	"city_code": 986,
+	"city_name": "Jardim"
+},
+{
+	"city_code": 987,
+	"city_name": "Jati"
+},
+{
+	"city_code": 988,
+	"city_name": "Jijoca de Jericoacoara"
+},
+{
+	"city_code": 989,
+	"city_name": "Juazeiro do Norte"
+},
+{
+	"city_code": 990,
+	"city_name": "Jucas"
+},
+{
+	"city_code": 991,
+	"city_name": "Lavras da Mangabeira"
+},
+{
+	"city_code": 992,
+	"city_name": "Limoeiro do Norte"
+},
+{
+	"city_code": 993,
+	"city_name": "Madalena"
+},
+{
+	"city_code": 994,
+	"city_name": "Maracanau"
+},
+{
+	"city_code": 995,
+	"city_name": "Maranguape"
+},
+{
+	"city_code": 996,
+	"city_name": "Marco"
+},
+{
+	"city_code": 997,
+	"city_name": "Martinopole"
+},
+{
+	"city_code": 998,
+	"city_name": "Massape"
+},
+{
+	"city_code": 999,
+	"city_name": "Mauriti"
+},
+{
+	"city_code": 1000,
+	"city_name": "Meruoca"
+},
+{
+	"city_code": 1001,
+	"city_name": "Milagres"
+},
+{
+	"city_code": 1002,
+	"city_name": "Milha"
+},
+{
+	"city_code": 1003,
+	"city_name": "Miraima"
+},
+{
+	"city_code": 1004,
+	"city_name": "Missao Velha"
+},
+{
+	"city_code": 1005,
+	"city_name": "Mombaca"
+},
+{
+	"city_code": 1006,
+	"city_name": "Monsenhor Tabosa"
+},
+{
+	"city_code": 1007,
+	"city_name": "Morada Nova"
+},
+{
+	"city_code": 1008,
+	"city_name": "Moraujo"
+},
+{
+	"city_code": 1009,
+	"city_name": "Morrinhos"
+},
+{
+	"city_code": 1010,
+	"city_name": "Mucambo"
+},
+{
+	"city_code": 1011,
+	"city_name": "Mulungu"
+},
+{
+	"city_code": 1012,
+	"city_name": "Nova Olinda"
+},
+{
+	"city_code": 1013,
+	"city_name": "Nova Russas"
+},
+{
+	"city_code": 1014,
+	"city_name": "Novo Oriente"
+},
+{
+	"city_code": 1015,
+	"city_name": "Ocara"
+},
+{
+	"city_code": 1016,
+	"city_name": "Oros"
+},
+{
+	"city_code": 1017,
+	"city_name": "Pacajus"
+},
+{
+	"city_code": 1018,
+	"city_name": "Pacatuba"
+},
+{
+	"city_code": 1019,
+	"city_name": "Pacoti"
+},
+{
+	"city_code": 1020,
+	"city_name": "Pacuja"
+},
+{
+	"city_code": 1021,
+	"city_name": "Palhano"
+},
+{
+	"city_code": 1022,
+	"city_name": "Palmacia"
+},
+{
+	"city_code": 1023,
+	"city_name": "Paracuru"
+},
+{
+	"city_code": 1024,
+	"city_name": "Paraipaba"
+},
+{
+	"city_code": 1025,
+	"city_name": "Parambu"
+},
+{
+	"city_code": 1026,
+	"city_name": "Paramoti"
+},
+{
+	"city_code": 1027,
+	"city_name": "Pedra Branca"
+},
+{
+	"city_code": 1028,
+	"city_name": "Penaforte"
+},
+{
+	"city_code": 1029,
+	"city_name": "Pentecoste"
+},
+{
+	"city_code": 1030,
+	"city_name": "Pereiro"
+},
+{
+	"city_code": 1031,
+	"city_name": "Pindoretama"
+},
+{
+	"city_code": 1032,
+	"city_name": "Piquet Carneiro"
+},
+{
+	"city_code": 1033,
+	"city_name": "Pires Ferreira"
+},
+{
+	"city_code": 1034,
+	"city_name": "Poranga"
+},
+{
+	"city_code": 1035,
+	"city_name": "Porteiras"
+},
+{
+	"city_code": 1036,
+	"city_name": "Potengi"
+},
+{
+	"city_code": 1037,
+	"city_name": "Potiretama"
+},
+{
+	"city_code": 1038,
+	"city_name": "Quiterianopolis"
+},
+{
+	"city_code": 1039,
+	"city_name": "Quixada"
+},
+{
+	"city_code": 1040,
+	"city_name": "Quixelo"
+},
+{
+	"city_code": 1041,
+	"city_name": "Quixeramobim"
+},
+{
+	"city_code": 1042,
+	"city_name": "Quixere"
+},
+{
+	"city_code": 1043,
+	"city_name": "Redencao"
+},
+{
+	"city_code": 1044,
+	"city_name": "Reriutaba"
+},
+{
+	"city_code": 1045,
+	"city_name": "Russas"
+},
+{
+	"city_code": 1046,
+	"city_name": "Saboeiro"
+},
+{
+	"city_code": 1047,
+	"city_name": "Salitre"
+},
+{
+	"city_code": 1048,
+	"city_name": "Santa Quiteria"
+},
+{
+	"city_code": 1049,
+	"city_name": "Santana do Acarau"
+},
+{
+	"city_code": 1050,
+	"city_name": "Santana do Cariri"
+},
+{
+	"city_code": 1051,
+	"city_name": "Sao Benedito"
+},
+{
+	"city_code": 1052,
+	"city_name": "Sao Goncalo do Amarante"
+},
+{
+	"city_code": 1053,
+	"city_name": "Sao Joao do Jaguaribe"
+},
+{
+	"city_code": 1054,
+	"city_name": "Sao Luis do Curu"
+},
+{
+	"city_code": 1055,
+	"city_name": "Senador Pompeu"
+},
+{
+	"city_code": 1056,
+	"city_name": "Senador Sa"
+},
+{
+	"city_code": 1057,
+	"city_name": "Sobral"
+},
+{
+	"city_code": 1058,
+	"city_name": "Solonopole"
+},
+{
+	"city_code": 1059,
+	"city_name": "Tabuleiro do Norte"
+},
+{
+	"city_code": 1060,
+	"city_name": "Tamboril"
+},
+{
+	"city_code": 1061,
+	"city_name": "Tarrafas"
+},
+{
+	"city_code": 1062,
+	"city_name": "Taua"
+},
+{
+	"city_code": 1063,
+	"city_name": "Tejucuoca"
+},
+{
+	"city_code": 1064,
+	"city_name": "Tiangua"
+},
+{
+	"city_code": 1065,
+	"city_name": "Trairi"
+},
+{
+	"city_code": 1066,
+	"city_name": "Tururu"
+},
+{
+	"city_code": 1067,
+	"city_name": "Ubajara"
+},
+{
+	"city_code": 1068,
+	"city_name": "Umari"
+},
+{
+	"city_code": 1069,
+	"city_name": "Umirim"
+},
+{
+	"city_code": 1070,
+	"city_name": "Uruburetama"
+},
+{
+	"city_code": 1071,
+	"city_name": "Uruoca"
+},
+{
+	"city_code": 1072,
+	"city_name": "Varjota"
+},
+{
+	"city_code": 1073,
+	"city_name": "Varzea Alegre"
+},
+{
+	"city_code": 1074,
+	"city_name": "Vicosa do Ceara"
+}]

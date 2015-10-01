@@ -1,0 +1,556 @@
+[{
+	"city_code": 311,
+	"city_name": "Abreulandia"
+},
+{
+	"city_code": 312,
+	"city_name": "Aguiarnopolis"
+},
+{
+	"city_code": 313,
+	"city_name": "Alianca do Tocantins"
+},
+{
+	"city_code": 314,
+	"city_name": "Almas"
+},
+{
+	"city_code": 315,
+	"city_name": "Alvorada"
+},
+{
+	"city_code": 316,
+	"city_name": "Ananas"
+},
+{
+	"city_code": 317,
+	"city_name": "Angico"
+},
+{
+	"city_code": 318,
+	"city_name": "Aparecida do Rio Negro"
+},
+{
+	"city_code": 319,
+	"city_name": "Aragominas"
+},
+{
+	"city_code": 320,
+	"city_name": "Araguacema"
+},
+{
+	"city_code": 321,
+	"city_name": "Araguacu"
+},
+{
+	"city_code": 322,
+	"city_name": "Araguaina"
+},
+{
+	"city_code": 323,
+	"city_name": "Araguana"
+},
+{
+	"city_code": 324,
+	"city_name": "Araguatins"
+},
+{
+	"city_code": 325,
+	"city_name": "Arapoema"
+},
+{
+	"city_code": 326,
+	"city_name": "Arraias"
+},
+{
+	"city_code": 327,
+	"city_name": "Augustinopolis"
+},
+{
+	"city_code": 328,
+	"city_name": "Aurora do Tocantins"
+},
+{
+	"city_code": 329,
+	"city_name": "Axixa do Tocantins"
+},
+{
+	"city_code": 330,
+	"city_name": "Babaculandia"
+},
+{
+	"city_code": 331,
+	"city_name": "Bandeirantes do Tocantins"
+},
+{
+	"city_code": 332,
+	"city_name": "Barra do Ouro"
+},
+{
+	"city_code": 333,
+	"city_name": "Barrolandia"
+},
+{
+	"city_code": 334,
+	"city_name": "Bernardo Sayao"
+},
+{
+	"city_code": 335,
+	"city_name": "Bom Jesus do Tocantins"
+},
+{
+	"city_code": 336,
+	"city_name": "Brasilandia do Tocantins"
+},
+{
+	"city_code": 337,
+	"city_name": "Brejinho de Nazare"
+},
+{
+	"city_code": 338,
+	"city_name": "Buriti do Tocantins"
+},
+{
+	"city_code": 339,
+	"city_name": "Cachoeirinha"
+},
+{
+	"city_code": 340,
+	"city_name": "Campos Lindos"
+},
+{
+	"city_code": 341,
+	"city_name": "Cariri do Tocantins"
+},
+{
+	"city_code": 342,
+	"city_name": "Carmolandia"
+},
+{
+	"city_code": 343,
+	"city_name": "Carrasco Bonito"
+},
+{
+	"city_code": 344,
+	"city_name": "Caseara"
+},
+{
+	"city_code": 345,
+	"city_name": "Centenario"
+},
+{
+	"city_code": 346,
+	"city_name": "Chapada da Natividade"
+},
+{
+	"city_code": 347,
+	"city_name": "Chapada de Areia"
+},
+{
+	"city_code": 348,
+	"city_name": "Colinas do Tocantins"
+},
+{
+	"city_code": 349,
+	"city_name": "Colmeia"
+},
+{
+	"city_code": 350,
+	"city_name": "Combinado"
+},
+{
+	"city_code": 351,
+	"city_name": "Conceicao do Tocantins"
+},
+{
+	"city_code": 352,
+	"city_name": "Couto Magalhaes"
+},
+{
+	"city_code": 353,
+	"city_name": "Cristalandia"
+},
+{
+	"city_code": 354,
+	"city_name": "Crixas do Tocantins"
+},
+{
+	"city_code": 355,
+	"city_name": "Darcinopolis"
+},
+{
+	"city_code": 356,
+	"city_name": "Dianopolis"
+},
+{
+	"city_code": 357,
+	"city_name": "Divinopolis do Tocantins"
+},
+{
+	"city_code": 358,
+	"city_name": "Dois Irmaos do Tocantins"
+},
+{
+	"city_code": 359,
+	"city_name": "Duere"
+},
+{
+	"city_code": 360,
+	"city_name": "Esperantina"
+},
+{
+	"city_code": 361,
+	"city_name": "Fatima"
+},
+{
+	"city_code": 362,
+	"city_name": "Figueiropolis"
+},
+{
+	"city_code": 363,
+	"city_name": "Filadelfia"
+},
+{
+	"city_code": 364,
+	"city_name": "Formoso do Araguaia"
+},
+{
+	"city_code": 365,
+	"city_name": "Fortaleza do Tabocao"
+},
+{
+	"city_code": 366,
+	"city_name": "Goianorte"
+},
+{
+	"city_code": 367,
+	"city_name": "Goiatins"
+},
+{
+	"city_code": 368,
+	"city_name": "Guarai"
+},
+{
+	"city_code": 369,
+	"city_name": "Gurupi"
+},
+{
+	"city_code": 370,
+	"city_name": "Ipueiras"
+},
+{
+	"city_code": 371,
+	"city_name": "Itacaja"
+},
+{
+	"city_code": 372,
+	"city_name": "Itaguatins"
+},
+{
+	"city_code": 373,
+	"city_name": "Itapiratins"
+},
+{
+	"city_code": 374,
+	"city_name": "Itapora do Tocantins"
+},
+{
+	"city_code": 375,
+	"city_name": "Jau do Tocantins"
+},
+{
+	"city_code": 376,
+	"city_name": "Juarina"
+},
+{
+	"city_code": 377,
+	"city_name": "Lagoa da Confusao"
+},
+{
+	"city_code": 378,
+	"city_name": "Lagoa do Tocantins"
+},
+{
+	"city_code": 379,
+	"city_name": "Lajeado"
+},
+{
+	"city_code": 380,
+	"city_name": "Lavandeira"
+},
+{
+	"city_code": 381,
+	"city_name": "Lizarda"
+},
+{
+	"city_code": 382,
+	"city_name": "Luzinopolis"
+},
+{
+	"city_code": 383,
+	"city_name": "Marianopolis do Tocantins"
+},
+{
+	"city_code": 384,
+	"city_name": "Mateiros"
+},
+{
+	"city_code": 385,
+	"city_name": "Maurilandia do Tocantins"
+},
+{
+	"city_code": 386,
+	"city_name": "Miracema do Tocantins"
+},
+{
+	"city_code": 387,
+	"city_name": "Miranorte"
+},
+{
+	"city_code": 388,
+	"city_name": "Monte do Carmo"
+},
+{
+	"city_code": 389,
+	"city_name": "Monte Santo do Tocantins"
+},
+{
+	"city_code": 390,
+	"city_name": "Muricilandia"
+},
+{
+	"city_code": 391,
+	"city_name": "Natividade"
+},
+{
+	"city_code": 392,
+	"city_name": "Nazare"
+},
+{
+	"city_code": 393,
+	"city_name": "Nova Olinda"
+},
+{
+	"city_code": 394,
+	"city_name": "Nova Rosalandia"
+},
+{
+	"city_code": 395,
+	"city_name": "Novo Acordo"
+},
+{
+	"city_code": 396,
+	"city_name": "Novo Alegre"
+},
+{
+	"city_code": 397,
+	"city_name": "Novo Jardim"
+},
+{
+	"city_code": 398,
+	"city_name": "Oliveira de Fatima"
+},
+{
+	"city_code": 399,
+	"city_name": "Palmas"
+},
+{
+	"city_code": 400,
+	"city_name": "Palmeirante"
+},
+{
+	"city_code": 401,
+	"city_name": "Palmeiras do Tocantins"
+},
+{
+	"city_code": 402,
+	"city_name": "Palmeiropolis"
+},
+{
+	"city_code": 403,
+	"city_name": "Paraiso do Tocantins"
+},
+{
+	"city_code": 404,
+	"city_name": "Parana"
+},
+{
+	"city_code": 405,
+	"city_name": "Pau DArco"
+},
+{
+	"city_code": 406,
+	"city_name": "Pedro Afonso"
+},
+{
+	"city_code": 407,
+	"city_name": "Peixe"
+},
+{
+	"city_code": 408,
+	"city_name": "Pequizeiro"
+},
+{
+	"city_code": 409,
+	"city_name": "Pindorama do Tocantins"
+},
+{
+	"city_code": 410,
+	"city_name": "Piraque"
+},
+{
+	"city_code": 411,
+	"city_name": "Pium"
+},
+{
+	"city_code": 412,
+	"city_name": "Ponte Alta do Bom Jesus"
+},
+{
+	"city_code": 413,
+	"city_name": "Ponte Alta do Tocantins"
+},
+{
+	"city_code": 414,
+	"city_name": "Porto Alegre do Tocantins"
+},
+{
+	"city_code": 415,
+	"city_name": "Porto Nacional"
+},
+{
+	"city_code": 416,
+	"city_name": "Praia Norte"
+},
+{
+	"city_code": 417,
+	"city_name": "Presidente Kennedy"
+},
+{
+	"city_code": 418,
+	"city_name": "Pugmil"
+},
+{
+	"city_code": 419,
+	"city_name": "Recursolandia"
+},
+{
+	"city_code": 420,
+	"city_name": "Riachinho"
+},
+{
+	"city_code": 421,
+	"city_name": "Rio da Conceicao"
+},
+{
+	"city_code": 422,
+	"city_name": "Rio dos Bois"
+},
+{
+	"city_code": 423,
+	"city_name": "Rio Sono"
+},
+{
+	"city_code": 424,
+	"city_name": "Sampaio"
+},
+{
+	"city_code": 425,
+	"city_name": "Sandolandia"
+},
+{
+	"city_code": 426,
+	"city_name": "Santa Fe do Araguaia"
+},
+{
+	"city_code": 427,
+	"city_name": "Santa Maria do Tocantins"
+},
+{
+	"city_code": 428,
+	"city_name": "Santa Rita do Tocantins"
+},
+{
+	"city_code": 429,
+	"city_name": "Santa Rosa do Tocantins"
+},
+{
+	"city_code": 430,
+	"city_name": "Santa Tereza do Tocantins"
+},
+{
+	"city_code": 431,
+	"city_name": "Santa Terezinha do Tocantins"
+},
+{
+	"city_code": 432,
+	"city_name": "Sao Bento do Tocantins"
+},
+{
+	"city_code": 433,
+	"city_name": "Sao Felix do Tocantins"
+},
+{
+	"city_code": 434,
+	"city_name": "Sao Miguel do Tocantins"
+},
+{
+	"city_code": 435,
+	"city_name": "Sao Salvador do Tocantins"
+},
+{
+	"city_code": 436,
+	"city_name": "Sao Sebastiao do Tocantins"
+},
+{
+	"city_code": 437,
+	"city_name": "Sao Valerio"
+},
+{
+	"city_code": 438,
+	"city_name": "Silvanopolis"
+},
+{
+	"city_code": 439,
+	"city_name": "Sitio Novo do Tocantins"
+},
+{
+	"city_code": 440,
+	"city_name": "Sucupira"
+},
+{
+	"city_code": 441,
+	"city_name": "Taguatinga"
+},
+{
+	"city_code": 442,
+	"city_name": "Taipas do Tocantins"
+},
+{
+	"city_code": 443,
+	"city_name": "Talisma"
+},
+{
+	"city_code": 444,
+	"city_name": "Tocantinia"
+},
+{
+	"city_code": 445,
+	"city_name": "Tocantinopolis"
+},
+{
+	"city_code": 446,
+	"city_name": "Tupirama"
+},
+{
+	"city_code": 447,
+	"city_name": "Tupiratins"
+},
+{
+	"city_code": 448,
+	"city_name": "Wanderlandia"
+},
+{
+	"city_code": 449,
+	"city_name": "Xambioa"
+}]
